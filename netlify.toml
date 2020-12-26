@@ -15,3 +15,15 @@
 
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+    baseUrl = "https://neutrino.leima.is"
+    sitemapPath = "/sitemap.xml"
+    providers = [
+      "google",
+      "bing",
+      "yandex"
+    ]

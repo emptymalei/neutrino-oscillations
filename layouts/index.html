@@ -1,47 +1,37 @@
 {{ define "main" }}
-<section class="section container-fluid mt-n3 pb-3">
+<section class="section container-fluid mt-n3 pb-5">
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
       <h1 class="mt-0">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.Lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/prologue/introduction/" | absURL }}" role="button">Get started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ .Site.Data.doks.version }}</a></p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "book/" | absURL }}" role="button">Read the Book</a>
+      <p class="meta">Source: <a href="https://github.com/emptymalei/neutrino-oscillations">v{{ .Site.Data.neutrino.version }} on GitHub</a></p>
     </div>
   </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
+<div class="d-flex justify-content-start">
+  <div class="bg-dots"></div>
+</div>
+
 <section class="section section-sm">
   <div class="container">
-    <div class="row justify-content-center text-center">
+    <div class="row justify-content-center text-center mt-n3">
       <div class="col-lg-5">
-        <h2 class="h4">Security aware</h2>
-        <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
+        <h2 class="h4">A Free eBook</h2>
+        <p>A free ebook on neutrino flavor conversions in dense media.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">Fast by default</h2>
-        <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
+        <h2 class="h4">Notes</h2>
+        <p><a href="https://docs.neutrino.xyz">Notes on neutrinos</a> with detailed derivations. This set of notes covers a lot of topics about neutrinos.</p>
       </div>
       <div class="col-lg-5">
-        <h2 class="h4">SEO-ready</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-      </div>
-    </div>
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">Full text search</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Page layouts</h2>
-        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Dark mode</h2>
-        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+        <h2 class="h4">More Tools</h2>
+        <p>Many other tools related to neutrinos, e.g., <a href="http://neutrino.xyz/neutrino-oscillation-js/">interactive visualizations</a>, can be accessed from <a href="https://neutrino.xyz">neutrino.xyz</a>.</p>
       </div>
     </div>
   </div>
@@ -49,11 +39,71 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm container-fluid">
+<section class="section container-fluid mt-n5">
   <div class="row justify-content-center text-center">
     <div class="col-lg-9">
+      <h2 class="mt-0">Open Source</h2>
+      <p>Everything on this website is open source.</p>
+      <a class="btn btn-primary px-3" href="https://github.com/emptymalei/neutrino-oscillations" role="button">Source on GitHub</a>
+    </div>
+  </div>
+</section>
+
+<div class="d-flex justify-content-end">
+  <div class="bg-dots bg-dots-md"></div>
+</div>
+
+<!--
+<section class="section section-sm mt-n3">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-6">
+        <h2 class="h3 mt-3 text-center">Doks Showcase</h2>
+        <div class="card-list">
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "showcase")  -}}
+        <div class="card bg-light">
+          <div class="card-body">
+            <h3 class="lead text-center"><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h3>
+          </div>
+        </div>
+        {{ end -}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+
+<!--
+<section class="section section-sm mt-n3">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xl-8">
+        <h2 class="mt-3 text-center">Doks Blog</h2>
+        <div class="card-list">
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog")  -}}
+        <div class="card">
+          <div class="card-body">
+            <h3><a class="stretched-link text-body" href="{{ .Permalink }}">{{ .Params.title }}</a></h3>
+            <p>{{ .Params.lead | safeHTML }}</p>
+            {{ partial "main/blog-meta.html" . -}}
+          </div>
+        </div>
+        {{ end -}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+
+<!--
+<section class="section section-sm container-fluid">
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-9 pt-3">
       {{- .Content -}}
     </div>
   </div>
 </section>
+-->
 {{ end }}

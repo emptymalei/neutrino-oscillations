@@ -6,10 +6,5 @@
         "markdown",
         "latex",
         "plaintext"
-    ],
-    "spellright.parserByClass": {
-        "Log": {
-            "parser": "latex"
-        }
-    }
+    ]
 }

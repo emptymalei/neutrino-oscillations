@@ -1,13 +1,13 @@
 {
-  "name": "doks",
-  "version": "0.1.2",
+  "name": "getdoks",
+  "version": "0.1.1",
   "private": true,
   "browserslist": [
     "defaults"
   ],
   "scripts": {
     "init": "rimraf .git && git init -b main",
-    "start": "hugo server",
+    "start": "hugo server --disableFastRender",
     "build": "hugo --gc --minify && npm run build:functions",
     "build:functions": "netlify-lambda build assets/lambda",
     "build:preview": "npm run build -D -F",

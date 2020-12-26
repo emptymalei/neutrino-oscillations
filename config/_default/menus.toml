@@ -1,8 +1,53 @@
+[[main]]
+  name = "Book"
+  url = "/book/"
+  weight = 01
+
+[[book]]
+  name = "Abstract"
+  url = "/book/abstract"
+  weight = 10
+
+[[main]]
+  name = "Notes"
+  url = "http://docs.neutrino.xyz"
+  weight = 10
+
+[[main]]
+  name = "neutrino.xyz"
+  url = "http://neutrino.xyz"
+  weight = 30
+
+
 [[docs]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
   url = "/docs/prologue/"
+
+[[docs]]
+  name = "Recipes"
+  weight = 20
+  identifier = "recipes"
+  url = "/docs/recipes/"
+
+[[docs]]
+  name = "Reference Guides"
+  weight = 30
+  identifier = "reference-guides"
+  url = "/docs/reference-guides/"
+
+[[docs]]
+  name = "Extensions"
+  weight = 40
+  identifier = "extensions"
+  url = "/docs/extensions/"
+
+[[docs]]
+  name = "Contributing"
+  weight = 50
+  identifier = "contributing"
+  url = "/docs/contributing/"
 
 [[docs]]
   name = "Help"
@@ -11,14 +56,20 @@
   url = "/docs/help/"
 
 [[main]]
-  name = "Matter"
+  name = "Docs"
   url = "/docs/prologue/introduction/"
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Tutorial"
+  url = "/tutorial/introduction/"
   weight = 20
+
+
+# [[main]]
+#   name = "Community"
+#   url = "https://github.com/h-enk/doks/discussions"
+#   weight = 50
 
 # [[social]]
 #   name = "Twitter"
@@ -29,11 +80,23 @@
 [[social]]
   name = "GitHub"
   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
-  url = "https://github.com/h-enk/doks"
+  url = "https://github.com/emptymalei/neutrino-oscillations"
   post = "v0.1.0"
   weight = 20
+
+[[footer]]
+  name = "Source"
+  url = "https://github.com/emptymalei/neutrino-oscillations"
+  weight = 10
 
 # [[footer]]
 #   name = "Privacy"
 #   url = "/privacy-policy/"
-#   weight = 10
+#   weight = 20
+
+[[tutorial]]
+  name = "Tutorial"
+  weight = 10
+  identifier = "tutorial"
+  url = "/tutorial/"
+

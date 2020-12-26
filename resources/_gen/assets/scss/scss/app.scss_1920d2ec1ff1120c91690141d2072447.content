@@ -7911,8 +7911,8 @@ body.dark .navbar-light .navbar-nav .banner .nav a.active,
 body.dark .navbar-light .navbar-text {
   color: #dee2e6; }
 
-body.dark .alert-primary a {
-  color: #212529; }
+body.dark .alert-global a {
+  color: #dee2e6; }
 
 body.dark .alert-warning {
   background: #1b1f22;
@@ -8084,9 +8084,11 @@ body.dark .bg-dots {
 body.dark .text-muted {
   color: #c8cfd6 !important; }
 
-body.dark .alert-primary {
-  background: #8ed6fb;
-  color: #212529; }
+body.dark .alert-global {
+  background: #212529;
+  opacity: 0.975;
+  color: #dee2e6;
+  border: 1px solid #1b1f22 !important; }
 
 body.dark .figure-caption {
   color: #dee2e6; }
@@ -8098,7 +8100,8 @@ body.dark .figure-caption {
 .alert-icon {
   margin-right: 0.75rem; }
 
-.docs .alert {
+.docs .alert,
+.tutorial .alert {
   margin: 2rem -1.5rem; }
 
 .alert .alert-link {
@@ -8141,6 +8144,31 @@ body.dark .figure-caption {
 .alert .alert-link:hover,
 .alert .alert-link:focus {
   text-decoration: none; }
+
+.alert-global {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 0.25rem;
+  margin: 0 15% 1rem;
+  font-family: "Jost", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+@media (min-width: 576px) {
+  .alert-global {
+    margin: 0 25% 1rem; } }
+
+@media (min-width: 768px) {
+  .alert-global {
+    margin: 0 30% 1rem; } }
+
+@media (min-width: 992px) {
+  .alert-global {
+    margin: 0 35% 1rem; } }
+
+@media (min-width: 1200px) {
+  .alert-global {
+    margin: 0 40% 1rem; } }
+
+.alert-global a {
+  color: #1d2d35; }
 
 .navbar .btn-link {
   color: #1d2d35;
@@ -8434,16 +8462,16 @@ figure.wide .figure-caption {
     padding-right: 0; }
   .navbar-form {
     margin-top: 0;
-    margin-left: 6rem;
+    margin-left: 3rem;
     margin-right: 1.5rem; } }
 
 @media (min-width: 992px) {
   .navbar-form {
-    margin-left: 15rem; } }
+    margin-left: 7rem; } }
 
 @media (min-width: 1200px) {
   .navbar-form {
-    margin-left: 30rem; } }
+    margin-left: 24rem; } }
 
 .form-control.is-search, .comment-form input.is-search[type="text"],
 .comment-form input.is-search[type="email"],
@@ -8576,12 +8604,22 @@ figure.wide .figure-caption {
   visibility: hidden;
   padding-left: 0.5rem; }
 
+.showcase-meta {
+  margin-top: 2rem; }
+
+.showcase-meta a {
+  color: #1d2d35; }
+
 h1:hover a,
 h2:hover a,
 h3:hover a,
 h4:hover a {
   visibility: visible;
   text-decoration: none; }
+
+.showcase-meta a:hover,
+.showcase-meta a:focus {
+  color: #5d2f86; }
 
 .card-list {
   margin-top: 2.25rem; }

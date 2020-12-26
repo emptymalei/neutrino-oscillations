@@ -6,10 +6,10 @@ date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
-menu:
+menu: 
   docs:
     parent: "prologue"
-weight: 100
+weight: 010
 toc: true
 ---
 
@@ -21,7 +21,7 @@ There are two main ways to get started with Doks:
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+Step-by-step instructions on how to start a new Doks project. [Tutorial →]({{< ref "tutorial/introduction" >}})
 
 ### Quick Start
 
@@ -35,23 +35,23 @@ Recipes, Reference Guides, Extensions, and Showcase.
 
 ### Recipes
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+Get instructions on how to accomplish common tasks with Doks. [Recipes →]({{< ref "project-configuration" >}})
 
 ### Reference Guides
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+Learn how to customize Doks to fully make it your own. [Reference Guides →]({{< ref "security" >}})
 
 ### Extensions
 
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/add-google-fonts/)
+Get instructions on how to add even more to Doks. [Extensions →]({{< ref "add-google-fonts" >}})
 
 ### Showcase
 
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/causal-data-science-meeting/)
+See what others have build with Doks. [Showcase →]({{< ref "causal-data-science-meeting" >}})
 
 ## Contributing
 
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+Find out how to contribute to Doks. [Contributing →]({{< ref "how-to-contribute" >}})
 
 ## Help
 

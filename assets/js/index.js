@@ -27,6 +27,7 @@ document.addEventListener('click', function(event) {
 
 });
 
+
 /*
 Source:
   - https://dev.to/shubhamprakash/trap-focus-using-javascript-6a3
@@ -83,7 +84,7 @@ Source:
   });
 
   var docs = [
-    {{ range $index, $page := (where .Site.Pages "Section" "docs") -}}
+    {{ range $index, $page := (where .Site.Pages "Section" "book") -}}
       {
         id: {{ $index }},
         href: "{{ .Permalink | absURL }}",

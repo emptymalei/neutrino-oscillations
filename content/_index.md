@@ -1,9 +1,9 @@
 ---
-title : "Neutrino Oscillations in Matter"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Neutrino Flavor Oscillations in Dense Media"
+description: "Neutrino flavor conversions in dense media play important roles in the physical and chemical evolutions of many dense environments."
+lead: "Neutrino flavor conversions in dense media play important roles in the physical and chemical evolutions of many dense environments."
+date: 2020-12-26
+lastmod: 2020-10-26
 draft: false
-images: []
+images: ["neutrino.jpg"]
 ---
