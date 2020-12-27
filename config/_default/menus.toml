@@ -3,10 +3,6 @@
   url = "/book/"
   weight = 01
 
-[[book]]
-  name = "Abstract"
-  url = "/book/abstract"
-  weight = 10
 
 [[main]]
   name = "Notes"

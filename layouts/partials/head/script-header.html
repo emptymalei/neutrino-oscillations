@@ -1,7 +1,8 @@
 <script>
     MathJax = {
       tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        tags: 'ams'
       },
       svg: {
         fontCache: 'global'
@@ -21,6 +22,7 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
        tex2jax: {
+         preview: "none",
          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
        }
     });
@@ -66,10 +68,41 @@
          bold: ['\\boldsymbol{\#1}',1],
          sech: ['\\operatorname{sech}{\#1}',1],
          csch: ['\\operatorname{csch}{\#1}',1],
-         Tr: ['\\operatorname{Tr}{\#1}',1]
+         Tr: ['\\operatorname{Tr}{\#1}',1],
+         ud: ['{\#1^\\dagger', 1]
        }
     }
     });
+    MathJax.InputJax.TeX.Macro('ff', '{\\mathrm f}');
     </script>
+
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+<div style="display: none;">
+$$
+\newcommand\Tr{\mathrm{Tr}}
+\newcommand{\braket}[2]{\langle #1 \mid #2 \rangle}
+\newcommand\I{\mathbb{I}}
+\newcommand{\avg}[1]{\left< #1 \right>}
+
+
+\newcommand{\RD}{D}
+\newcommand{\ri}{\mathrm{i}}
+\DeclareMathOperator{\sign}{sign}
+\DeclareMathOperator{\Sign}{Sign}
+
+\newcommand{\ii}{\mathrm i}
+\newcommand{\vv}{\mathrm v}
+\newcommand{\ff}{\mathrm f}
+\newcommand{\mm}{\mathrm m}
+\newcommand{\ee}{\mathrm e}
+\newcommand{\xx}{\mathrm x}
+\newcommand{\RR}{\mathrm R}
+\newcommand{\dd}{\mathrm d}
+\newcommand{\FF}{\mathrm F}
+\newcommand{\BB}{\mathrm B}
+\newcommand{\vph}{v_{\mathrm{ph}}}
+$$
+</div>
