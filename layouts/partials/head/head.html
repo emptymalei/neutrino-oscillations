@@ -2,7 +2,14 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="Content-Security-Policy" content="default-src * self blob: data: gap:; style-src * self 'unsafe-inline' blob: data: gap:; script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob: data: gap:; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:;">
+  <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+  <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' https://* 'unsafe-inline'; script-src 'self' https://* 'unsafe-inline' 'unsafe-eval'" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://www.googletagmanager.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; script-src 'self' https://somedomain.com/ 'unsafe-inline' 'unsafe-eval';  media-src *">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://polyfill.io 'unsafe-eval'; style-src 'self' 'unsafe-inline'; script-src 'self' https://somedomain.com/ 'unsafe-inline' 'unsafe-eval';  media-src *">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://cdn.jsdelivr.net 'unsafe-eval'; style-src 'self' 'unsafe-inline'; script-src 'self' https://somedomain.com/ 'unsafe-inline' 'unsafe-eval';  media-src *">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://static.cloudflareinsights.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; script-src 'self' https://somedomain.com/ 'unsafe-inline' 'unsafe-eval';  media-src *">
+
+
   {{ block "head/resource-hints" . }}{{ partial "head/resource-hints.html" . }}{{ end }}
   {{ block "head/stylesheet" . }}{{ partial "head/stylesheet.html" . }}{{ end }}
   {{ block "head/seo" . }}{{ partial "head/seo.html" . }}{{ end }}
