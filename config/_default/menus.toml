@@ -15,47 +15,6 @@
   weight = 30
 
 
-[[docs]]
-  name = "Prologue"
-  weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
-
-[[docs]]
-  name = "Recipes"
-  weight = 20
-  identifier = "recipes"
-  url = "/docs/recipes/"
-
-[[docs]]
-  name = "Reference Guides"
-  weight = 30
-  identifier = "reference-guides"
-  url = "/docs/reference-guides/"
-
-[[docs]]
-  name = "Extensions"
-  weight = 40
-  identifier = "extensions"
-  url = "/docs/extensions/"
-
-[[docs]]
-  name = "Contributing"
-  weight = 50
-  identifier = "contributing"
-  url = "/docs/contributing/"
-
-[[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
-
-[[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-  weight = 10
-
 [[main]]
   name = "Tutorial"
   url = "/tutorial/introduction/"
@@ -89,10 +48,4 @@
 #   name = "Privacy"
 #   url = "/privacy-policy/"
 #   weight = 20
-
-[[tutorial]]
-  name = "Tutorial"
-  weight = 10
-  identifier = "tutorial"
-  url = "/tutorial/"
 
