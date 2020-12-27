@@ -1,0 +1,2548 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abrams",
+        "given": "J.J."
+      },
+      {
+        "family": "Bryan Burk",
+        "given": "Lisa Joy"
+      },
+      {
+        "family": "Nolan",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Weintraub",
+        "given": "Jerry"
+      },
+      {
+        "family": "Dunn",
+        "given": "Bruce"
+      },
+      {
+        "family": "Ekins",
+        "given": "Susan"
+      },
+      {
+        "family": "Lingg",
+        "given": "Kathy"
+      },
+      {
+        "family": "O’Toole",
+        "given": "Noreen"
+      },
+      {
+        "family": "Semel",
+        "given": "Stephen"
+      },
+      {
+        "family": "Wickham",
+        "given": "Athena"
+      },
+      {
+        "family": "Auge",
+        "given": "David"
+      },
+      {
+        "family": "Lewis",
+        "given": "Richard J."
+      },
+      {
+        "family": "Martin",
+        "given": "Cherylanne"
+      },
+      {
+        "family": "Patino",
+        "given": "Roberto"
+      },
+      {
+        "family": "Lingenfelter",
+        "given": "Kath"
+      },
+      {
+        "family": "Thomsen",
+        "given": "Daniel T."
+      },
+      {
+        "family": "Poul",
+        "given": "Alan"
+      },
+      {
+        "family": "Brubaker",
+        "given": "Ed"
+      },
+      {
+        "family": "Mitchell",
+        "given": "Dominic"
+      },
+      {
+        "family": "Carpenter",
+        "given": "Bridget"
+      },
+      {
+        "family": "Stephens",
+        "given": "Scott"
+      },
+      {
+        "family": "Coatsworth",
+        "given": "David"
+      },
+      {
+        "family": "Stormer",
+        "given": "Timothy"
+      },
+      {
+        "family": "Wray",
+        "given": "Carly"
+      }
+    ],
+    "container-title": "IMDb",
+    "director": [
+      {
+        "comma-suffix": false,
+        "family": "Jonathan Nolan",
+        "given": "Jonny Campbell",
+        "suffix": "Frederick E.O. Toye"
+      }
+    ],
+    "id": "westworld2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Bad Robot, Jerry Weintraub Productions, Kilter Films, Warner Bros. Television",
+    "title": "Westworld",
+    "type": "no-type"
+  },
+  {
+    "DOI": "10.1126/science.124.3212.103",
+    "ISSN": "0036-8075",
+    "PMID": "17796274",
+    "URL": "http://www.ncbi.nlm.nih.gov/pubmed/17796274",
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "C L"
+      },
+      {
+        "family": "Reines",
+        "given": "F"
+      },
+      {
+        "family": "Harrison",
+        "given": "F B"
+      },
+      {
+        "family": "Kruse",
+        "given": "H W"
+      },
+      {
+        "family": "McGuire",
+        "given": "A D"
+      }
+    ],
+    "container-title": "Science",
+    "id": "Cowan1956",
+    "issue": "3212",
+    "issued": {
+      "date-parts": [
+        [
+          1956,
+          7
+        ]
+      ]
+    },
+    "page": "103-4",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "<span class=\"nocase\">Detection of the free neutrino: a confirmation.</span>",
+    "type": "article-journal",
+    "volume": "124"
+  },
+  {
+    "DOI": "10.1016/S0920-5632(03)01306-9",
+    "ISSN": "09205632",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0920563203013069",
+    "author": [
+      {
+        "family": "Bahcall",
+        "given": "John N."
+      }
+    ],
+    "container-title": "Nuclear Physics B - Proceedings Supplements",
+    "id": "Bahcall2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    },
+    "page": "77-86",
+    "title": "<span class=\"nocase\">Solar models: An historical overview</span>",
+    "type": "article-journal",
+    "volume": "118"
+  },
+  {
+    "DOI": "10.1016/0029-554X(73)90715-5",
+    "ISSN": "0029554X",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/0029554X73907155",
+    "author": [
+      {
+        "family": "Bahcall",
+        "given": "J.N."
+      }
+    ],
+    "container-title": "Nuclear Instruments and Methods",
+    "id": "Bahcall1973",
+    "issued": {
+      "date-parts": [
+        [
+          1973,
+          7
+        ]
+      ]
+    },
+    "page": "381-384",
+    "title": "<span class=\"nocase\">The solar neutrino problem</span>",
+    "type": "article-journal",
+    "volume": "110"
+  },
+  {
+    "DOI": "10.1146/annurev-nucl-102115-044747",
+    "ISSN": "0163-8998",
+    "URL": "http://www.annualreviews.org/doi/10.1146/annurev-nucl-102115-044747",
+    "abstract": "Nonspherical mass motions are a generic feature of core-collapse supernovae, and hydrodynamic instabilities play a crucial role for the explosion mechanism. First successful neutrino-driven explosions could be obtained with self-consistent, first-principle simulations in three spatial dimensions (3D). But 3D models tend to be less prone to explosion than corresponding axisymmetric (2D) ones. This has been explained by 3D turbulence leading to energy cascading from large to small spatial scales, inversely to the 2D case, thus disfavoring the growth of buoyant plumes on the largest scales. Unless the inertia to explode simply reflects a lack of sufficient resolution in relevant regions, it suggests that some important aspect may still be missing for robust and sufficiently energetic neutrino-powered explosions. Such deficits could be associated with progenitor properties like rotation, magnetic fields or pre-collapse perturbations, or with microphysics that could lead to an enhancement of neutrino heating behind the shock. 3D simulations have also revealed new phenomena that are not present in 2D, for example spiral modes of the standing accretion shock instability (SASI) and a stunning dipolar lepton-emission self-sustained asymmetry (LESA). Both impose time- and direction-dependent variations on the detectable neutrino signal. The understanding of these effects and of their consequences is still in its infancy.",
+    "author": [
+      {
+        "family": "Janka",
+        "given": "Hans-Thomas"
+      },
+      {
+        "family": "Melson",
+        "given": "Tobias"
+      },
+      {
+        "family": "Summa",
+        "given": "Alexander"
+      }
+    ],
+    "container-title": "Annual Review of Nuclear and Particle Science",
+    "id": "Janka2016b",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "fluid instabilities,hydrodynamics,neutrinos,neutron stars,supernovae",
+    "page": "341-375",
+    "title": "<span class=\"nocase\">Physics of core-collapse supernovae in three dimensions: A sneak preview</span>",
+    "type": "article-journal",
+    "volume": "66"
+  },
+  {
+    "DOI": "10.1016/0370-2693(92)90860-7",
+    "ISSN": "03702693",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/0370269392908607",
+    "author": [
+      {
+        "family": "Babu",
+        "given": "K.S"
+      },
+      {
+        "family": "Rothstein",
+        "given": "I.Z"
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Babu1992",
+    "issue": "1-2",
+    "issued": {
+      "date-parts": [
+        [
+          1992,
+          1
+        ]
+      ]
+    },
+    "page": "112-118",
+    "title": "<span class=\"nocase\">Relaxing nucleosynthesis bounds on sterile neutrinos</span>",
+    "type": "article-journal",
+    "volume": "275"
+  },
+  {
+    "DOI": "10.1088/1475-7516/2004/10/005",
+    "ISSN": "1475-7516",
+    "URL": "http://stacks.iop.org/1475-7516/2004/i=10/a=005?key=crossref.fca13df94e1e1e3408b49d62a729b02d",
+    "abstract": "We show that mass varying neutrinos (MaVaNs) can behave as a negative pressure fluid which could be the origin of the cosmic acceleration. We derive a model independent relation between the neutrino mass and the equation of state parameter of the neutrino dark energy, which is applicable for general theories of mass varying particles. The neutrino mass depends on the local neutrino density and the observed neutrino mass can exceed the cosmological bound on a constant neutrino mass. We discuss microscopic realizations of the MaVaN acceleration scenario, which involve a sterile neutrino. We consider naturalness constraints for mass varying particles, and find that both ev cutoffs and ev mass particles are needed to avoid fine-tuning. These considerations give a (current) mass of order an eV for the sterile neutrino in microscopic realizations, which could be detectable at MiniBooNE. Because the sterile neutrino was much heavier at earlier times, constraints from big bang nucleosynthesis on additional states are not problematic. We consider regions of high neutrino density and find that the most likely place today to find neutrino masses which are significantly different from the neutrino masses in our solar system is in a supernova. The possibility of different neutrino mass in different regions of the galaxy and the local group could be significant for Z-burst models of ultra-high energy cosmic rays. We also consider the cosmology of and the constraints on the “acceleron”, the scalar field which is responsible for the varying neutrino mass, and briefly discuss neutrino density dependent variations in other constants, such as the fine structure constant.",
+    "author": [
+      {
+        "family": "Fardon",
+        "given": "Rob"
+      },
+      {
+        "family": "Nelson",
+        "given": "Ann E."
+      },
+      {
+        "family": "Weiner",
+        "given": "Neal"
+      }
+    ],
+    "container-title": "Journal of Cosmology and Astroparticle Physics",
+    "id": "Fardon2004",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          10
+        ]
+      ]
+    },
+    "keyword": "Cosmological neutrinos,Dark energy theory,Neutrino properties,Supernova neutrinos",
+    "page": "005-005",
+    "title": "<span class=\"nocase\">Dark energy from mass varying neutrinos</span>",
+    "type": "article-journal",
+    "volume": "2004"
+  },
+  {
+    "ISSN": "03702693",
+    "abstract": "We look at the possibility that appreciable neutrino masses and flavor mixing occur only within material media, driven by an interaction between leptons and a very light scalar particle. Limits are placed on the scalar particle mass and coupling constants from a number of experimental and astrophysical considerations. (C) 1999 Published by Elsevier Science B.V. All rights reserved.",
+    "author": [
+      {
+        "family": "Sawyer",
+        "given": "R F"
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Sawyer1999",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "keyword": "Oscillations,Physical Chemical and Earth Sciences",
+    "page": "174-179",
+    "title": "<span class=\"nocase\">Do neutrinos have mass only within matter?</span>",
+    "type": "article-journal",
+    "volume": "448"
+  },
+  {
+    "DOI": "10.1002/asna.201713417",
+    "ISSN": "00046337",
+    "URL": "http://doi.wiley.com/10.1002/asna.201713417",
+    "author": [
+      {
+        "family": "Kemp",
+        "given": "E."
+      }
+    ],
+    "container-title": "Astronomische Nachrichten",
+    "id": "Kemp2017",
+    "issue": "9-10",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "brazil,campinas,de campinas,gleb wataghin institute of,physics,unicamp,universidade",
+    "page": "993-999",
+    "title": "<span class=\"nocase\">The Deep Underground Neutrino Experiment: The precision era of neutrino physics</span>",
+    "type": "article-journal",
+    "volume": "338"
+  },
+  {
+    "URL": "http://www.jetp.ac.ru/cgi-bin/dn/e{\\_}026{\\_}05{\\_}0984.pdf",
+    "author": [
+      {
+        "family": "Pontecorvo",
+        "given": "B"
+      }
+    ],
+    "container-title": "Soviet Physics JETP",
+    "id": "Pontecorvo1968",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "page": "984-988",
+    "title": "<span class=\"nocase\">Neutrino experiments and the problem of conservation of leptonic charge</span>",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "DOI": "10.1038/scientificamerican0585-60",
+    "ISSN": "0036-8733",
+    "URL": "http://www.nature.com/doifinder/10.1038/scientificamerican0585-60",
+    "author": [
+      {
+        "family": "Bethe",
+        "given": "Hans A."
+      },
+      {
+        "family": "Brown",
+        "given": "Gerald"
+      }
+    ],
+    "container-title": "Scientific American",
+    "id": "Bethe1985",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          1985,
+          5
+        ]
+      ]
+    },
+    "page": "60-68",
+    "title": "<span class=\"nocase\">How a Supernova Explodes</span>",
+    "type": "article-journal",
+    "volume": "252"
+  },
+  {
+    "DOI": "10.1086/163343",
+    "ISSN": "0004-637X",
+    "URL": "http://adsabs.harvard.edu/doi/10.1086/163343",
+    "author": [
+      {
+        "family": "Bethe",
+        "given": "Hans A"
+      },
+      {
+        "family": "Wilson",
+        "given": "James R"
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Bethe1985r",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1985,
+          8
+        ]
+      ]
+    },
+    "page": "14",
+    "title": "<span class=\"nocase\">Revival of a stalled supernova shock by neutrino heating</span>",
+    "type": "article-journal",
+    "volume": "295"
+  },
+  {
+    "DOI": "10.1088/0034-4885/64/1/203",
+    "ISSN": "0034-4885",
+    "URL": "http://stacks.iop.org/0034-4885/64/i=1/a=203?key=crossref.f5e6ab9425ef6027dd8df16f37c931f5",
+    "author": [
+      {
+        "family": "Altmann",
+        "given": "Michael F"
+      },
+      {
+        "family": "Mößbauer",
+        "given": "Rudolf L"
+      },
+      {
+        "family": "Oberauer",
+        "given": "Lothar J N"
+      }
+    ],
+    "container-title": "Reports on Progress in Physics",
+    "id": "Altmann2001",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          1
+        ]
+      ]
+    },
+    "page": "97-146",
+    "title": "<span class=\"nocase\">Solar neutrinos</span>",
+    "type": "article-journal",
+    "volume": "64"
+  },
+  {
+    "DOI": "10.1103/PhysRevC.69.015801",
+    "ISSN": "0556-2813",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevC.69.015801",
+    "author": [
+      {
+        "family": "Stonehill",
+        "given": "L. C."
+      },
+      {
+        "family": "Formaggio",
+        "given": "J. A."
+      },
+      {
+        "family": "Robertson",
+        "given": "R. G. H."
+      }
+    ],
+    "container-title": "Physical Review C",
+    "id": "Stonehill2004",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "015801",
+    "title": "<span class=\"nocase\">Solar neutrinos from CNO electron capture</span>",
+    "type": "article-journal",
+    "volume": "69"
+  },
+  {
+    "URL": "http://rmp.aps.org/abstract/RMP/v83/i1/p195{\\_}1",
+    "author": [
+      {
+        "family": "Adelberger",
+        "given": "Eg"
+      },
+      {
+        "family": "García",
+        "given": "a"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "Adelberger2011a",
+    "issue": "March",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Solar fusion cross sections. II. The pp chain and CNO cycles</span>",
+    "type": "article-journal",
+    "volume": "83"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.17.2369",
+    "ISSN": "0556-2821",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.17.2369",
+    "abstract": "The effect of coherent forward scattering must be taken into account when considering the oscillations of neutrinos traveling through matter. In particular, for the case of massless neutrinos for which vacuum oscillations cannot occur, oscillations can occur in matter if the neutral current has an off-diagonal piece connecting different neutrino types. Applications discussed are solar neutrinos and a proposed experiment involving transmission of neutrinos through 1000 km of rock.",
+    "author": [
+      {
+        "family": "Wolfenstein",
+        "given": "L."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "wolf78",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          1978,
+          5
+        ]
+      ]
+    },
+    "page": "2369-2374",
+    "title": "<span class=\"nocase\">Neutrino oscillations in matter</span>",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.44.1644",
+    "author": [
+      {
+        "family": "Bahcall",
+        "given": "John N."
+      }
+    ],
+    "container-title": "Physics Review",
+    "id": "Bahcall1991",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "1644-1651",
+    "title": "<span class=\"nocase\">Shapes of solar neutrino spectra: Unconventional tests of the standard electroweak model</span>",
+    "type": "article-journal",
+    "volume": "D44"
+  },
+  {
+    "DOI": "10.1016/S0370-1573(96)00032-4",
+    "ISSN": "03701573",
+    "URL": "http://arxiv.org/abs/astro-ph/9606180",
+    "abstract": "After a short survey of the physics of solar neutrinos, giving an overview of hydrogen burning reactions, predictions of standard solar models and results of solar neutrino experiments, we discuss the solar-model-independent indications in favour of non-standard neutrino properties. The experimental results look to be in contradiction with each other, even disregarding some experiment: unless electron neutrinos disappear in their trip from the sun to the earth, the fluxes of intermediate energy neutrinos (those from 7Be electron capture and from the CNO cycle) result to be unphysically negative, or anyway extremely reduced with respect to standard solar model predictions. Next we review extensively non-standard solar models built as attempts to solve the solar neutrino puzzle. The dependence of the central solar temperature on chemical composition, opacity, age and on the values of the astrophysical S-factors for hydrogen-burning reactions is carefully investigated. Also, possible modifications of the branching among the various pp-chains in view of nuclear physics uncertainties are examined. Assuming standard neutrinos, all solar models examined fail in reconciling theory with experiments, even when the physical and chemical inputs are radically changed with respect to present knowledge and even if some of the experimental results are discarded.",
+    "author": [
+      {
+        "family": "Castellani",
+        "given": "V."
+      },
+      {
+        "family": "Degl’Innocenti",
+        "given": "S."
+      },
+      {
+        "family": "Fiorentini",
+        "given": "G."
+      },
+      {
+        "family": "Lissia",
+        "given": "M."
+      },
+      {
+        "family": "Ricci",
+        "given": "B."
+      }
+    ],
+    "id": "Castellani1996",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "88",
+    "title": "<span class=\"nocase\">Solar neutrinos: beyond standard solar models</span>",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/hep-ph/0305106",
+    "abstract": "The MSW (Mikheyev-Smirnov-Wolfenstein) effect is the effect of transformation of one neutrino species (flavor) into another one in a medium with varying density. Three basic elements of the effect include: the refraction of neutrinos in matter, the resonance (level crossing) and the adiabaticity. The key notion is {$\\backslash$it the neutrino eigenstates} in matter. Physical picture of the effect is described in terms of the flavors and the relative phases of eigenstates and the transitions between eigenstates. Features of the large mixing realization of the MSW effect are discussed. The large mixing MSW effect (LMA) provides the solution of the solar neutrino problem. We show in details how this mechanism works. Physics beyond the LMA solution is discussed. The lower \\$Ar\\$-production rate (in comparison with the LMA prediction) and absence of significant \"turn up\" of the spectrum at low energies can be due to an additional effect of the light sterile neutrino with very small mixing.",
+    "author": [
+      {
+        "family": "Smirnov",
+        "given": "a\\. Yu."
+      }
+    ],
+    "id": "Smirnov2003",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "23",
+    "title": "<span class=\"nocase\">The MSW effect and Solar Neutrinos</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.88.045006",
+    "ISSN": "1550-7998",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.88.045006",
+    "author": [
+      {
+        "family": "Lopes",
+        "given": "Ilídio"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Lopes2013",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "045006",
+    "title": "<span class=\"nocase\">Probing the Sun’s inner core using solar neutrinos: A new diagnostic method</span>",
+    "type": "article-journal",
+    "volume": "88"
+  },
+  {
+    "DOI": "10.1088/0004-637X/765/1/14",
+    "ISSN": "0004-637X",
+    "URL": "http://stacks.iop.org/0004-637X/765/i=1/a=14?key=crossref.4cff6dedb7934dd37ee116976e7fa484",
+    "author": [
+      {
+        "family": "Lopes",
+        "given": "Ilídio"
+      },
+      {
+        "family": "Turck-Chièze",
+        "given": "Sylvaine"
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Lopes2013a",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "color figures,evolution,interior,interiors,neutrinos,online-only material,stars,sun",
+    "page": "14",
+    "title": "<span class=\"nocase\">Solar Neutrino Physics Oscillations: Sensitivity To the Electronic Density in the Sun’s Core</span>",
+    "type": "article-journal",
+    "volume": "765"
+  },
+  {
+    "URL": "http://arxiv.org/abs/astro-ph/0308228",
+    "abstract": "We study the flavor-dependent neutrino spectra formation in the core of a supernova (SN) by means of Monte Carlo simulations. A high-statistics neutrino signal from a galactic SN may contain information that severely constrains the parameter space for neutrino oscillations. Therefore, reliable predictions for flavor-dependent fluxes and spectra are urgently needed. In all traditional hydrodynamic simulations the nu\\_mu,tau and nu\\_mu,tau-bar interactions commonly included are rather schematic. With our Monte Carlo simulations we find that the most relevant sources for nu\\_mu,tau and nu\\_mu,tau-bar are traditionally not included. In comparing our numerical results for all flavors we find the standard hierarchy of mean energies nu\\_e \\< nu\\_e-bar \\< nu\\_mu,tau, with, however, very similar values for nu\\_mu,tau and nu\\_e-bar. The luminosities of nu\\_mu,tau and nu\\_mu,tau-bar can differ by up to a factor of 2 from L\\_nue-bar and L\\_nue, the latter two are very similar. The Garching Group obtains similar results from their self-consistent simulation with the full set of interactions. These results are almost orthogonal to the previous standard picture of exactly equal luminosities of all flavors and differences in mean energies of up to a factor of 2. Existing concepts for identifying oscillation effects in a SN neutrino signal need to be revised. We present two methods for detecting the earth-matter effect that are rather independent of predictions from SN simulations.",
+    "author": [
+      {
+        "family": "Keil",
+        "given": "Mathias Th."
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "Keil2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Supernova Neutrino Spectra and Applications to Flavor Oscillations</span>",
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Raffelt",
+        "given": "Georg G."
+      },
+      {
+        "family": "Keil",
+        "given": "Mathias Th."
+      },
+      {
+        "family": "Buras",
+        "given": "Robert"
+      },
+      {
+        "family": "Janka",
+        "given": "Hans-Thomas"
+      },
+      {
+        "family": "Rampp",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "<span class=\"nocase\">Neutrino oscillations and their origin. Proceedings, 4th International Workshop, NOON2003, Kanazawa, Japan, February 10-14, 2003</span>",
+    "id": "ysuzuki2004",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "380-387",
+    "title": "<span class=\"nocase\">Supernova neutrinos: Flavor-dependent fluxes and spectra</span>",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1086/305364",
+    "ISSN": "0004-637X",
+    "URL": "http://stacks.iop.org/0004-637X/496/i=1/a=216",
+    "author": [
+      {
+        "family": "Totani",
+        "given": "T."
+      },
+      {
+        "family": "Sato",
+        "given": "K."
+      },
+      {
+        "family": "Dalhed",
+        "given": "H. E."
+      },
+      {
+        "family": "Wilson",
+        "given": "J. R."
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Totani1998",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          3
+        ]
+      ]
+    },
+    "page": "216-225",
+    "title": "<span class=\"nocase\">Future Detection of Supernova Neutrino Burst and Explosion Mechanism</span>",
+    "type": "article-journal",
+    "volume": "496"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.57.1275",
+    "ISSN": "0031-9007",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevLett.57.1275",
+    "abstract": "through a resonant oscillation region. If the electron neutrino is produced far above the resonance density, this probability is simply given by \"e Analytic results are presented for the probability of detecting an electron neutrino after passage (P„)=sin Hp+ P„cos28p, where Hp is the vacuum mix- ing angle. The probability is averaged over the production as well as the detection positions of the neutrino and P„ is the Landau-Zener transition probability between adiabatic states. Finally, this result is applied to resonance oscillations within the solar interior.",
+    "author": [
+      {
+        "family": "Parke",
+        "given": "Stephen J."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Parke1986",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          1986,
+          9
+        ]
+      ]
+    },
+    "page": "1275-1278",
+    "title": "<span class=\"nocase\">Nonadiabatic Level Crossing in Resonant Neutrino Oscillations</span>",
+    "type": "article-journal",
+    "volume": "57"
+  },
+  {
+    "DOI": "10.1088/1674-1137/40/10/100001",
+    "author": [
+      {
+        "family": "Patrignani",
+        "given": "C."
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "container-title": "Chinese Physics C",
+    "id": "Patrignani:2016xqp",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "100001",
+    "title": "<span class=\"nocase\">Review of particle physics</span>",
+    "type": "article-journal",
+    "volume": "40"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.74.123004",
+    "ISSN": "1550-7998",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.74.123004",
+    "abstract": "We study the flavor evolution of a dense gas initially consisting of pure mono-energetic \\$\\_e\\$ and \\$\\_e\\$. Using adiabatic invariants and the special symmetry in such a system we are able to calculate the flavor evolution of the neutrino gas for the cases with slowly decreasing neutrino number densities. These calculations give new insights into the results of recent large-scale numerical simulations of neutrino flavor transformation in supernovae. For example, our calculations reveal the existence of what we term the “collective precession mode”. Our analyses suggest that neutrinos which travel on intersecting trajectories subject to destructive quantum interference nevertheless can be in this mode. This mode can result in sharp transitions in the final energy-dependent neutrino survival probabilities across all trajectories, a feature seen in the numerical simulations. Moreover, this transition is qualitatively different for the normal and inverted neutrino mass hierarchies. Exploiting this difference, the neutrino signals from a future galactic supernova can potentially be used to determine the actual neutrino mass hierarchy.",
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M."
+      },
+      {
+        "family": "Qian",
+        "given": "Yong-Zhong"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Duan2006b",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          12
+        ]
+      ]
+    },
+    "page": "123004",
+    "title": "<span class=\"nocase\">Analysis of collective neutrino flavor transformation in supernovae</span>",
+    "type": "article-journal",
+    "volume": "74"
+  },
+  {
+    "DOI": "10.1088/0004-637X/746/1/106",
+    "ISSN": "0004-637X",
+    "URL": "http://stacks.iop.org/0004-637X/746/i=1/a=106?key=crossref.86835641aac1fd1f9a4cc23f89772e91",
+    "abstract": "(Abridged) Neutrino heating may drive core-collapse supernova explosions. Although it is known that the stalled accretion shock turns into explosion when the neutrino luminosity from the collapsed core exceeds a critical value (L\\_crit) (the \"neutrino mechanism\"), the physics of L\\_crit, as well as its dependence on the properties of the proto-neutron star (PNS) and changes to the microphysics has never been systematically explored. We solve the one-dimensional steady-state accretion problem between the PNS surface and the accretion shock. We quantify the deep connection between the solution space of steady-state accretion flows with bounding shocks and the neutrino mechanism. We show that there is a maximum, critical sound speed above which it is impossible to maintain accretion with a standoff shock, because the shock jump conditions cannot be satisfied. The physics of this critical sound speed is general and does not depend on a specific heating mechanism. For the simple model of pressure-less free-fall onto a shock bounding an isothermal accretion flow with sound speed c\\_T, we show that if c\\_T\\^2/v\\_escape\\^2 \\> 3/16 explosion results. We generalize this result to the more complete supernova problem, showing explicitly that the same physics determines L\\_crit. We find that the critical condition for explosion can be written as c\\_S\\^2/v\\_escape\\^2 = 0.19, where c\\_S is the adiabatic sound speed. This \"antesonic\" condition describes L\\_crit over a broad range in accretion rate and microphysics. We show that the addition of the accretion luminosity (L\\_acc) reduces L\\_crit non-trivially. As in previous work, we find that L\\_crit is always significantly higher than the maximum possible value of L\\_acc. Finally, we provide evidence that the reduction in L\\_crit seen in recent multi-dimensional simulations results from a reduction in the efficiency of cooling, rather than an increase in the heating rate.",
+    "author": [
+      {
+        "family": "Pejcha",
+        "given": "Ondřej"
+      },
+      {
+        "family": "Thompson",
+        "given": "Todd A."
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Pejcha2012a",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          2
+        ]
+      ]
+    },
+    "keyword": "accretion,accretion disks,hydrodynamics,instabilities,shock waves,supernovae: general",
+    "page": "106",
+    "title": "<span class=\"nocase\">The physics of the neutrino mechanism of core-collapse supernovae</span>",
+    "type": "article-journal",
+    "volume": "746"
+  },
+  {
+    "DOI": "10.1016/S0920-5632(03)01303-3",
+    "author": [
+      {
+        "family": "Lande",
+        "given": "K."
+      },
+      {
+        "family": "Wildenhain",
+        "given": "P."
+      }
+    ],
+    "container-title": "Nuclear Physics Proceedings Supplements",
+    "id": "Lande2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "note": "\\[,49(2003)\\]",
+    "page": "49-54",
+    "title": "<span class=\"nocase\">The Homestake chlorine solar neutrino experiment: Past, present and future</span>",
+    "type": "article-journal",
+    "volume": "118"
+  },
+  {
+    "DOI": "10.1086/305343",
+    "author": [
+      {
+        "family": "Cleveland",
+        "given": "B. T."
+      },
+      {
+        "family": "Daily",
+        "given": "Timothy"
+      },
+      {
+        "comma-suffix": false,
+        "family": "Davis",
+        "given": "Raymond",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Distel",
+        "given": "James R."
+      },
+      {
+        "family": "Lande",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Lee",
+        "given": "C. K."
+      },
+      {
+        "family": "Wildenhain",
+        "given": "Paul S."
+      },
+      {
+        "family": "Ullman",
+        "given": "Jack"
+      }
+    ],
+    "container-title": "Astrophysical Journal",
+    "id": "Cleveland1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "505-526",
+    "title": "<span class=\"nocase\">Measurement of the solar electron neutrino flux with the Homestake chlorine detector</span>",
+    "type": "article-journal",
+    "volume": "496"
+  },
+  {
+    "DOI": "https://doi.org/10.1016/j.nuclphysbps.2013.03.012",
+    "ISSN": "0920-5632",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0920563213001151",
+    "abstract": "The SNO Collaboration has completed a combined analysis of 8B solar neutrino data from all three phases of the project. The combined analysis resulted in a total flux of active neutrino flavors from 8B decays in the sun of 5.25±0.16(stat.)−0.13+0.11(syst.)×106cm2s−1. A three-flavor neutrino oscillation analysis combining the SNO results with results of all other solar neutrino experiments and the KamLAND experiment yielded Δm212=(7.41−0.19+0.21)×10−5eV2, tan2θ12=0.446−0.029+0.030, and sin2θ13=(2.5−1.5+1.8)×10−2. The results of the SNO analysis will be presented, along with a discussion of future projects that will seek to study lower energy neutrinos to improve on our knowledge of the properties of neutrinos and the sun.",
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "A.B."
+      }
+    ],
+    "container-title": "Nuclear Physics B - Proceedings Supplements",
+    "id": "McDonald2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "keyword": "Solar neutrinos, neutrino properties, solar models",
+    "note": "The XXV International Conference on Neutrino Physics and Astrophysics",
+    "page": "61 - 67",
+    "title": "SNO and future solar neutrino experiments",
+    "type": "article-journal",
+    "volume": "235-236"
+  },
+  {
+    "ISBN": "9780226702728",
+    "URL": "http://wwwth.mpp.mpg.de/members/raffelt/mypapers/199613.pdf",
+    "author": [
+      {
+        "family": "Raffelt",
+        "given": "G. G."
+      }
+    ],
+    "container-title": "Chicago, USA: Univ. Pr. (1996) 664 p",
+    "id": "Raffelt1996wa",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Stars as laboratories for fundamental physics</span>",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1007/978-3-319-21846-5_4",
+    "ISBN": "978-3-319-21846-5",
+    "URL": "https://doi.org/10.1007/978-3-319-21846-5_4",
+    "abstract": "Supernovae are the most powerful cosmic sources of MeV neutrinos. These elementary particles play a crucial role when the evolution of a massive star is terminated by the collapse of its core to a neutron star or a black hole and the star explodes as supernova. The release of electron neutrinos, which are abundantly produced by electron captures, accelerates the catastrophic infall and causes a gradual neutronization of the stellar plasma by converting protons to neutrons as dominant constituents of neutron star matter. The emission of neutrinos and antineutrinos of all flavors carries away the gravitational binding energy of the compact remnant and drives its evolution from the hot initial to the cold final state. The absorption of electron neutrinos and antineutrinos in the surroundings of the newly formed neutron star can power the supernova explosion and determines the conditions in the innermost supernova ejecta, making them an interesting site for the nucleosynthesis of iron-group elements and trans-iron nuclei.",
+    "author": [
+      {
+        "family": "Janka",
+        "given": "Hans-Thomas"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Alsabti",
+        "given": "Athem W."
+      },
+      {
+        "family": "Murdin",
+        "given": "Paul"
+      }
+    ],
+    "id": "Janka2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1575-1604",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "title": "Neutrino emission from supernovae",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-0-12-369470-6",
+    "URL": "http://www.sciencedirect.com/science/book/9780123694706",
+    "author": [
+      {
+        "literal": "R. W. Boyd"
+      }
+    ],
+    "edition": "Third",
+    "id": "Boyd2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "title": "Nonlinear Optics",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.73.056003",
+    "ISSN": "1550-7998",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.73.056003",
+    "author": [
+      {
+        "family": "Kneller",
+        "given": "J. P."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "G. C."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Kneller2006",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    "page": "056003",
+    "title": "<span class=\"nocase\">Monte Carlo neutrino oscillations</span>",
+    "type": "article-journal",
+    "volume": "73"
+  },
+  {
+    "author": [
+      {
+        "family": "Mikheev",
+        "given": "S. P."
+      },
+      {
+        "family": "Smirnov",
+        "given": "A. \\relax Yu."
+      }
+    ],
+    "container-title": "Soviet Journal of Nuclear Physics",
+    "id": "Mikheev:1986gs",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "note": "\\[Yad. Fiz.42,1441(1985)\\]",
+    "page": "913-917",
+    "title": "<span class=\"nocase\">Resonance Amplification of Oscillations in Matter and Spectroscopy of Solar Neutrinos</span>",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "DOI": "10.1016/S0370-2693(98)00742-4",
+    "ISSN": "03702693",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0370269398007424 http://arxiv.org/abs/hep-ph/9805262 http://dx.doi.org/10.1016/S0370-2693(98)00742-4",
+    "abstract": "It is shown that the strong enhancement of the Earth (day-night) effect for solar neutrinos crossing the Earth core in the case of the small mixing angle MSW electron neutrino to muon (tau) neutrino transition solution of the solar neutrino problem is due to a new resonance effect in the solar neutrino transitions in the Earth and not just to the MSW effect in the core. The effect is in many respects similar to the electron paramagnetic resonance. The conditions for existence of this new resonance effect are discussed. They include specific constraints on the neutrino oscillation lengths in the Earth mantle and in the Earth core, thus the resonance is a “neutrino oscillation length resonance”. The effect exhibits strong dependence on the neutrino energy. Analytic expression for the probability accounting for the solar neutrino transitions in the Earth, which provides a high precision description of the transitions, including the new resonance effect, is derived. The implications of our results for the searches of the day-night asymmetry in the solar neutrino experiments are briefly discussed. The new resonance effect is operative also in the muon neutrino to electron neutrino (electron neutrino to muon neutrino) transitions of atmospheric neutrinos crossing the Earth core.",
+    "author": [
+      {
+        "family": "Petcov",
+        "given": "S. T."
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Petcov1998b",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          8
+        ]
+      ]
+    },
+    "page": "321-332",
+    "title": "<span class=\"nocase\">Diffractive-like (or parametric-resonance-like?) enhancement of the Earth (day-night) effect for solar neutrinos crossing the Earth core</span>",
+    "type": "article-journal",
+    "volume": "434"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.20.2634",
+    "ISSN": "0556-2821",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.20.2634",
+    "author": [
+      {
+        "family": "Wolfenstein",
+        "given": "L."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "wolfensteinprd1979",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          1979,
+          11
+        ]
+      ]
+    },
+    "page": "2634-2635",
+    "title": "<span class=\"nocase\">Neutrino oscillations and stellar collapse</span>",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "DOI": "10.1103/RevModPhys.61.937",
+    "ISSN": "0034-6861",
+    "URL": "http://link.aps.org/doi/10.1103/RevModPhys.61.937",
+    "abstract": "Review is devoted to the systematic representation of the theory (first part) and the applications (second part) of neutrino oscillations in matter. The evolution equations for mixed neutrinos in matter are deduced in different forms and analized. The consideration includes symmetries, limits of applications and some generalizations of equations. The analogies of the mixed neutrinos in matter have been found. We discuss in details the properties and the physical sense of the resonance in a system of mixed neutrinos. For homogeneous matter the effect of resonant enhancement of oscillations is described. Different representation of the adiabaticity condition, which determines a dynamics of neutrino oscillations, are given, and the adiabaticity parameter is introduced. Practically complete transformations of one neutrino species into another one are possible at the adiabatic (or near to adiabatic) crossing of resonance layer even at small vacuum mixing. The effect of non-oscillatory transition is remarked. Some results have been obtained for the adiabaticity violation regime. Also we review the exact solutions of the equations for special density distributions. The generalization of the theory for the case of three neutrino mixing is given. The effects of inelastic collisions as well as the divergence of neutrino wave packets are discussed. The theory of resonant conversion is applied then to the neutrino fluxes inside the Sun, the Earth and the collapsing stars. The distortion of the neutrino energy spectra by the matter filters with different density distributions are calculated. We describe the observable effects of conversion for solar and atmospheric neutrinos as well as for neutrinos from collapsing stars. The searching for these effects is considered as a method of measuring the neutrino masses and mixing. Resonant conversion may quite naturally solve the solar neutrino problem. The distinctions of resonance conversion effects and another mechanisms for solar $\\nu$e - flux reduction are considered, and in this connection the possibilities of solar neutrino spectroscopy are outlined. We discuss the consequences of $\\nu$ - signal detection from supernova 1987A. 1989.",
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "T. K."
+      },
+      {
+        "family": "Pantaleone",
+        "given": "James"
+      }
+    ],
+    "container-title": "Reviews of Modern Physics",
+    "id": "kuo1989",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          1989,
+          10
+        ]
+      ]
+    },
+    "page": "937-979",
+    "title": "<span class=\"nocase\">Neutrino oscillations in matter</span>",
+    "type": "article-journal",
+    "volume": "61"
+  },
+  {
+    "DOI": "10.1016/0370-2693(89)91206-9",
+    "ISSN": "03702693",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/0370269389912069",
+    "author": [
+      {
+        "family": "Krastev",
+        "given": "P.I."
+      },
+      {
+        "family": "Smirnov",
+        "given": "A.Yu."
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Krastev1989",
+    "issue": "3-4",
+    "issued": {
+      "date-parts": [
+        [
+          1989,
+          8
+        ]
+      ]
+    },
+    "page": "341-346",
+    "title": "<span class=\"nocase\">Parametric effects in neutrino oscillations</span>",
+    "type": "article-journal",
+    "volume": "226"
+  },
+  {
+    "DOI": "10.1016/S0550-3213(98)00723-8",
+    "ISSN": "05503213",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0550321398007238",
+    "annote": "one and a half period slab approximation of Earth matter profile",
+    "author": [
+      {
+        "family": "Akhmedov",
+        "given": "E.Kh."
+      }
+    ],
+    "container-title": "Nuclear Physics B",
+    "id": "Akhmedov1999",
+    "issue": "1-2",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          1
+        ]
+      ]
+    },
+    "keyword": "1,2,e i n,e n s t,e y e v,earth,effect,have a simple analogue,i n t r,in clas-,it is well known,m i k h,m s w,matter effects,n o v -,neutrino oscillations in matter,neutrinos,o d u c,s m i r,t i o n,that the resonantly enhanced,the,w o l f",
+    "page": "25-51",
+    "title": "<span class=\"nocase\">Parametric resonance of neutrino oscillations and passage of solar and atmospheric neutrinos through the earth</span>",
+    "type": "article-journal",
+    "volume": "538"
+  },
+  {
+    "DOI": "10.1007/s12043-000-0006-4",
+    "ISSN": "0304-4289",
+    "URL": "http://link.springer.com/10.1007/s12043-000-0006-4",
+    "abstract": "Neutrino oscillations in matter can exhibit a specific resonance enhancement – parametric resonance, which is different from the MSW resonance. Oscillations of atmospheric and solar neutrinos inside the earth can undergo parametric enhancement when neutrino trajectories cross the core of the earth. In this paper we review the parametric resonance of neutrino oscillations in matter. In particular, physical interpretation of the effect and the prospects of its experimental observation in oscillations of solar and atmospheric neutrinos in the earth are discussed.",
+    "author": [
+      {
+        "family": "Akhmedov",
+        "given": "E. Kh"
+      }
+    ],
+    "container-title": "Pramana",
+    "id": "Akhmedov2000",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          1
+        ]
+      ]
+    },
+    "page": "47-63",
+    "title": "<span class=\"nocase\">Parametric resonance in neutrino oscillations in matter</span>",
+    "type": "article-journal",
+    "volume": "54"
+  },
+  {
+    "DOI": "10.1088/0954-3899/40/5/055002",
+    "ISBN": "9780735411883",
+    "ISSN": "0954-3899",
+    "URL": "http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.4826746 http://stacks.iop.org/0954-3899/40/i=5/a=055002?key=crossref.7eb9d1215a0aec9cdd33120d477f5bbe",
+    "abstract": "Large amplitude oscillations between states of a quantum system can be stimulated by sinusoidal external potentials with frequencies that are equal to the energy level splitting of the states or a fraction thereof. We investigate this effect for neutrino oscillations both analytically and numerically finding a simple expression for amplitude and wavelength of the transitions as a function of the density, the amplitude and wavenumber of the fluctuation, and the matter mixing matrix elements. We apply our findings to the supernova environment and find that it is possible to predict stimulated transitions that occur due to sinusoidal perturbations in the density.",
+    "author": [
+      {
+        "family": "Kneller",
+        "given": "James P."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "Gail C."
+      },
+      {
+        "family": "Patton",
+        "given": "Kelly M."
+      }
+    ],
+    "container-title": "Journal of Physics G: Nuclear and Particle Physics",
+    "id": "Kneller2013",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "keyword": "Matter Effect,Neutrinos,Parametric Resonance,Stimulated Neutrino Oscillation",
+    "page": "055002",
+    "title": "<span class=\"nocase\">Stimulated neutrino transformation with sinusoidal density profiles</span>",
+    "type": "article-journal",
+    "volume": "40"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.89.073022",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.89.073022",
+    "author": [
+      {
+        "family": "Patton",
+        "given": "Kelly M."
+      },
+      {
+        "family": "Kneller",
+        "given": "James P."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "Gail C."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Patton2014",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "keyword": "Matter Effect,Stimulated Neutrino Oscillation",
+    "page": "073022",
+    "title": "<span class=\"nocase\">Stimulated neutrino transformation through turbulence</span>",
+    "type": "article-journal",
+    "volume": "89"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.91.025001",
+    "author": [
+      {
+        "family": "Patton",
+        "given": "Kelly M."
+      },
+      {
+        "family": "Kneller",
+        "given": "James P."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "Gail C."
+      }
+    ],
+    "container-title": "Physical Review",
+    "id": "Patton:2014lza",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "025001",
+    "title": "<span class=\"nocase\">Stimulated neutrino transformation through turbulence on a changing density profile and application to supernovae</span>",
+    "type": "article-journal",
+    "volume": "D91"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.74.123004",
+    "ISSN": "1550-7998",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.74.123004",
+    "abstract": "We study the flavor evolution of a dense gas initially consisting of pure mono-energetic \\$\\_e\\$ and \\$\\_e\\$. Using adiabatic invariants and the special symmetry in such a system we are able to calculate the flavor evolution of the neutrino gas for the cases with slowly decreasing neutrino number densities. These calculations give new insights into the results of recent large-scale numerical simulations of neutrino flavor transformation in supernovae. For example, our calculations reveal the existence of what we term the “collective precession mode”. Our analyses suggest that neutrinos which travel on intersecting trajectories subject to destructive quantum interference nevertheless can be in this mode. This mode can result in sharp transitions in the final energy-dependent neutrino survival probabilities across all trajectories, a feature seen in the numerical simulations. Moreover, this transition is qualitatively different for the normal and inverted neutrino mass hierarchies. Exploiting this difference, the neutrino signals from a future galactic supernova can potentially be used to determine the actual neutrino mass hierarchy.",
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M."
+      },
+      {
+        "family": "Qian",
+        "given": "Yong-Zhong"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Duan2006a",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          12
+        ]
+      ]
+    },
+    "page": "123004",
+    "title": "<span class=\"nocase\">Collective neutrino flavor transformation in supernovae</span>",
+    "type": "article-journal",
+    "volume": "74"
+  },
+  {
+    "DOI": "10.1016/S0370-2693(02)01591-5",
+    "ISSN": "03702693",
+    "URL": "http://dx.doi.org/10.1016/S0370-2693(02)01591-5 http://linkinghub.elsevier.com/retrieve/pii/S0370269302015915",
+    "abstract": "In the context of three-neutrino oscillations, we study the possibility of using antineutrinos from nuclear reactors to explore the 10-4 eV2 \\< ??m???2 ??? 8 ?? 10-4 eV2 region of the LMA MSW solution of the solar neutrino problem and measure ??m???2 with high precision. The KamLAND experiment is not expected to determine ??m???2 if the latter happens to lie in the indicated region. By analysing both the total event rate suppression and the energy spectrum distortion caused by v??e oscillations in vacuum, we show that the optimal baseline of such an experiment is L ??? (20-25) km. Furthermore, for 10-4 eV2 \\< ??m???2 ??? 5 ?? 10-4 eV2, the same experiment might be used to try to distinguish between the two possible types of neutrino mass spectrum - with normal or with inverted hierarchy, by exploring the effect of interference between the atmospheric- and solar-??m2 driven oscillations; for larger values of ??m???2 not exceeding 8.0 ?? 10-4 eV2, a shorter baseline, L ??? 10 km, would be needed for the purpose. The indicated interference effect modifies in a characteristic way the energy spectrum of detected events. Distinguishing between the two types of neutrino mass spectrum requires, however, a high precision determination of the atmospheric ??m2, a sufficiently large sin2 ?? and a non-maximal sin2 2?????, where ?? and ????? are the mixing angles, respectively, limited by the CHOOZ and Palo Verde data and characterizing the solar neutrino oscillations. It also requires a relatively high precision measurement of the positron spectrum in the reaction v??e + p ??? e+ + n. ?? 2002 Elsevier Science B.V. All rights reserved.",
+    "author": [
+      {
+        "family": "Petcov",
+        "given": "S.T."
+      },
+      {
+        "family": "Piai",
+        "given": "M."
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Petcov2002",
+    "issue": "1-2",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          5
+        ]
+      ]
+    },
+    "keyword": "13.15.+g,14.60.Pq",
+    "page": "94-106",
+    "publisher": "Elsevier Science B.V.",
+    "title": "<span class=\"nocase\">The LMA MSW solution of the solar neutrino problem, inverted neutrino mass hierarchy and reactor neutrino experiments</span>",
+    "type": "article-journal",
+    "volume": "533"
+  },
+  {
+    "DOI": "http://dx.doi.org/10.1016/j.physleta.2009.06.015",
+    "ISSN": "0375-9601",
+    "URL": "http://www.sciencedirect.com/science/article/pii/S0375960109007166",
+    "abstract": "Numerical estimates for pair production from vacuum in the presence of strong electromagnetic fields are derived, for two experimental schemes: the first concerns a laser based X-FEL and the other imitates the {E144} experiment. The approximation adopted in this work is that of two level multiphoton on resonance. Utilizing achievable values of laser beam parameters, an enhanced production efficiency of up to 1011 and 1015 pairs can be obtained, for the two schemes respectively.",
+    "author": [
+      {
+        "family": "Ploumistakis",
+        "given": "I."
+      },
+      {
+        "family": "Moustaizis",
+        "given": "S.D."
+      },
+      {
+        "family": "Tsohantjis",
+        "given": "I."
+      }
+    ],
+    "container-title": "Physics Letters A",
+    "id": "Ploumistakis20092897",
+    "issue": "32",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "keyword": "High intensity lasers",
+    "page": "2897 - 2900",
+    "title": "Towards laser based improved experimental schemes for multiphoton pair production from vacuum",
+    "type": "article-journal",
+    "volume": "373"
+  },
+  {
+    "DOI": "10.1093/mnras/stv101",
+    "ISSN": "0035-8711",
+    "URL": "http://mnras.oxfordjournals.org/cgi/doi/10.1093/mnras/stv101",
+    "author": [
+      {
+        "family": "Muller",
+        "given": "B."
+      },
+      {
+        "family": "Janka",
+        "given": "H.- T."
+      }
+    ],
+    "container-title": "Monthly Notices of the Royal Astronomical Society",
+    "id": "Muller2015",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2
+        ]
+      ]
+    },
+    "keyword": "hydrodynamics,instabilities,neutrinos,radiative",
+    "page": "2141-2174",
+    "title": "<span class=\"nocase\">Non-radial instabilities and progenitor asphericities in core-collapse supernovae</span>",
+    "type": "article-journal",
+    "volume": "448"
+  },
+  {
+    "DOI": "10.1088/0004-637X/799/1/5",
+    "ISSN": "1538-4357",
+    "URL": "http://stacks.iop.org/0004-637X/799/i=1/a=5?key=crossref.5b5fcec309f37aef90a609482e70f24d",
+    "author": [
+      {
+        "family": "Couch",
+        "given": "Sean M."
+      },
+      {
+        "family": "Ott",
+        "given": "Christian D."
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Couch2015",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          1
+        ]
+      ]
+    },
+    "keyword": "general,hydrodynamics,neutrinos,supernovae",
+    "page": "5",
+    "title": "<span class=\"nocase\">The role of turbulence in neutrino-driven core-collapse supernova explosions</span>",
+    "type": "article-journal",
+    "volume": "799"
+  },
+  {
+    "DOI": "10.1088/1475-7516/2014/11/030",
+    "ISSN": "1475-7516",
+    "URL": "http://stacks.iop.org/1475-7516/2014/i=11/a=030?key=crossref.fb1c09ef84ed89b75cb889e093d88c06",
+    "abstract": "During the shock-wave propagation in a core-collapse supernova (SN), matter turbulence may affect neutrino flavor conversion probabilities. Such effects have been usually studied by adding small-scale random fluctuations (with arbitrary amplitude) on top of coarse, spherically symmetric matter density profiles. Recently, however, two-dimensional (2D) SN models have reached a space resolution high enough to directly trace anisotropic density profiles, down to scales smaller than the typical neutrino oscillation length. In this context, we analyze the statistical properties of a large set of SN matter density profiles obtained in a high-resolution 2D simulation, focusing on a post-bounce time (2 s) suited to study shock-wave effects on neutrino propagation on scales as small as 15 km. We clearly find the imprint of a broken (Kolmogorov-Kraichnan) power-law structure, as generically expected in 2D turbulence spectra. We then compute the flavor evolution of SN neutrinos along representative realizations of the turbulent matter density profiles, and observe no significant damping of the neutrino crossing probabilities on their way through the shock wave, contrary to previous findings in the literature. We surmise that the lack of damping is likely to apply also to 3D conditions to be studied by future 3D simulations with comparable resolution. These results show the importance of anchoring turbulence effects on SN neutrinos to realistic, fine-grained SN models.",
+    "author": [
+      {
+        "family": "Borriello",
+        "given": "Enrico"
+      },
+      {
+        "family": "Chakraborty",
+        "given": "Sovan"
+      },
+      {
+        "family": "Janka",
+        "given": "Hans-Thomas"
+      },
+      {
+        "family": "Lisi",
+        "given": "Eligio"
+      },
+      {
+        "family": "Mirizzi",
+        "given": "Alessandro"
+      }
+    ],
+    "container-title": "Journal of Cosmology and Astroparticle Physics",
+    "id": "Borriello2014",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "030-030",
+    "title": "<span class=\"nocase\">Turbulence patterns and neutrino flavor transitions in high-resolution supernova models</span>",
+    "type": "article-journal",
+    "volume": "2014"
+  },
+  {
+    "URL": "http://arxiv.org/abs/astro-ph/0607244",
+    "abstract": "Convection that develops behind the shock front during the first second of a core-collapse supernova explosion is believed to play a crucial role in the explosion mechanism. We demonstrate that the resulting turbulent density fluctuations may be directly observable in the neutrino signal starting at t\\>\\~ 3-4 s after the onset of the explosion. The effect comes from the modulation of the MSW flavor transformations by the turbulent density fluctuations. We derive a simple and general criterion for neutrino flavor depolarization in a Kolmogorov-type turbulence and apply it to the turbulence seen in modern numerical simulations. The turbulence casts a \"shadow\", by making other features, such as the shock front, unobservable in the density range covered by the turbulence.",
+    "author": [
+      {
+        "family": "Friedland",
+        "given": "Alexander"
+      },
+      {
+        "family": "Gruzinov",
+        "given": "Andrei"
+      }
+    ],
+    "id": "Friedland2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          7
+        ]
+      ]
+    },
+    "page": "1-5",
+    "title": "<span class=\"nocase\">Neutrino signatures of supernova turbulence</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.82.123004",
+    "ISSN": "1550-7998",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevD.82.123004",
+    "abstract": "Multidimensional core-collapse supernova simulations exhibit turbulence of large amplitude and over large scales. As neutrinos pass through the supernova mantle the turbulence is expected to modify their evolution compared to the case where the explosion is free of turbulence. In this paper we study this turbulence effect upon the neutrinos modeling the turbulence expected from multidimensional simulations by adding matter density fluctuations to density profiles taken from one-dimensional hydrodynamical simulations. We investigate the impact upon the supernova neutrino transition probabilities as a function of the neutrino mixing angle $\\theta$13 and turbulence amplitude. In the high resonant channel and with large $\\theta$13 values we find that turbulence is effectively two flavor for fluctuation amplitudes 1% and have identified a new effect due to the combination of turbulence and multiple high resonances that leads to a sensitivity to fluctuations amplitudes as small as ∼0.001%. At small values of $\\theta$13, beyond the range achievable in Earth based experiments, we find that turbulence leads to new flavor transient effects in the channel where the Mikheev-Smirnov-Wolfenstein high resonance occurs. Finally, we investigate large amplitude fluctuations which lead to three-flavor effects due to broken high-low factorization and significant nonresonant transitions and identify two nonresonant turbulence effects, one depending on the $\\theta$13, and the other independent of this angle and due to the low Mikheev-Smirnov-Wolfenstein resonance. 2010 The American Physical Society.",
+    "author": [
+      {
+        "family": "Kneller",
+        "given": "James"
+      },
+      {
+        "family": "Volpe",
+        "given": "Cristina"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Kneller2010",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    },
+    "page": "123004",
+    "title": "<span class=\"nocase\">Turbulence effects on supernova neutrinos</span>",
+    "type": "article-journal",
+    "volume": "82"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.50.4762",
+    "ISSN": "0556-2821",
+    "URL": "http://arxiv.org/abs/nucl-th/9406003 http://dx.doi.org/10.1103/PhysRevD.50.4762 http://link.aps.org/doi/10.1103/PhysRevD.50.4762",
+    "abstract": "We develop the Redfield equation for delta-correlated gaussian noise and apply it to the case of two neutrino flavor or spin precession in the presence of a noisy matter density or magnetic field, respectively. The criteria under which physical fluctuations can be well approximated by the delta-correlated gaussian noise for the above cases are examined. Current limits on the possible neutrino magnetic moment and solar magnetic field suggest that a reasonably noisy solar magnetic field would not appreciably affect the solar electron neutrino flux. However, if the solar electron density has fluctuations of a few percent of the local density and a small enough correlation length, the MSW effect is suppressed for a range of parameters.",
+    "author": [
+      {
+        "family": "Loreti",
+        "given": "F. N."
+      },
+      {
+        "family": "Balantekin",
+        "given": "A. B."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Loreti1994",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "page": "4762-4770",
+    "title": "<span class=\"nocase\">Neutrino oscillations in noisy media</span>",
+    "type": "article-journal",
+    "volume": "50"
+  },
+  {
+    "DOI": "10.1086/182223",
+    "ISSN": "0004-637X",
+    "URL": "http://adsabs.harvard.edu/doi/10.1086/182223",
+    "author": [
+      {
+        "family": "Flowers",
+        "given": "Elliott G"
+      },
+      {
+        "family": "Sutherland",
+        "given": "Peter G"
+      }
+    ],
+    "container-title": "The Astrophysical Journal",
+    "id": "Flowers1976a",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1976,
+          8
+        ]
+      ]
+    },
+    "page": "L19",
+    "title": "<span class=\"nocase\">Neutrino-neutrino scattering and supernovae</span>",
+    "type": "article-journal",
+    "volume": "208"
+  },
+  {
+    "DOI": "10.1016/0550-3213(93)90175-O",
+    "ISSN": "05503213",
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/055032139390175O",
+    "annote": "They difined entropy in this paper but the form is hard to understand!",
+    "author": [
+      {
+        "family": "Sigl",
+        "given": "G."
+      },
+      {
+        "family": "Raffelt",
+        "given": "G."
+      }
+    ],
+    "container-title": "Nuclear Physics B",
+    "id": "Sigl1993",
+    "issue": "1-2",
+    "issued": {
+      "date-parts": [
+        [
+          1993,
+          9
+        ]
+      ]
+    },
+    "keyword": "Matter Suppression,Wigner Function",
+    "page": "423-451",
+    "title": "<span class=\"nocase\">General kinetic description of relativistic mixed neutrinos</span>",
+    "type": "article-journal",
+    "volume": "406"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.74.105014",
+    "ISSN": "15507998",
+    "abstract": "We present results of large-scale numerical simulations of the evolution of neutrino and antineutrino flavors in the region above the late-time post-supernova-explosion proto-neutron star. Our calculations are the first to allow explicit flavor evolution histories on different neutrino trajectories and to self-consistently couple flavor development on these trajectories through forward scattering-induced quantum entanglement. Employing the atmospheric-scale neutrino mass-squared difference and values of theta\\_13 allowed by current bounds, we find transformation of neutrino and antineutrino flavors over broad ranges of energy and luminosity in roughly the “bi-polar” collective mode. We find that this large-scale flavor conversion, largely driven by the flavor off-diagonal neutrino-neutrino forward scattering potential, sets in much closer to the proto-neutron star than simple estimates based on flavor-diagonal potentials and Mikeheyev-Smirnov-Wolfenstein evolution would indicate. In turn, this suggests that models of r-process nucleosynthesis sited in the neutrino-driven wind could be affected substantially by active-active neutrino flavor mixing, even with the small measured neutrino mass-squared differences.",
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M."
+      },
+      {
+        "family": "Carlson",
+        "given": "J."
+      },
+      {
+        "family": "Qian",
+        "given": "Yong Zhong"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Duan2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "1-22",
+    "title": "<span class=\"nocase\">Simulation of coherent nonlinear neutrino flavor transformation in the supernova environment: Correlated neutrino trajectories</span>",
+    "type": "article-journal",
+    "volume": "74"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1403.5797",
+    "abstract": "Accretion disks arising from neutron star- neutron star mergers or black hole- neutron star mergers produce large numbers of neutrinos and antineutrinos. In contrast to other astrophysical scenarios, like supernovae, in mergers the antineutrinos outnumber the neutrinos. This antineutrino dominance gives neutrinos from merger disks the opportunity to exhibit new oscillation physics, specifically a matter-neutrino resonance. We explore this resonance, finding that consequences can be a large transition of \\$\\_e\\$ to other flavors, while the \\${e\\$s return to their initial state. We present numerical calculations of neutrinos from merger disks and compare with a single energy model. We explain both the basic features and the conditions for a transition.",
+    "author": [
+      {
+        "family": "Malkus",
+        "given": "a"
+      },
+      {
+        "family": "Friedland",
+        "given": "A"
+      },
+      {
+        "family": "McLaughlin",
+        "given": "G. C."
+      }
+    ],
+    "id": "Malkus2014",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3
+        ]
+      ]
+    },
+    "keyword": "a black hole,accretion disk,as home to,forms a black hole,many reasons,mergers are fascinating for,neutrino mixing,neutrinos-neutrino interaction,neutron star and,neutron stars or a,the merger of two,these",
+    "page": "1-6",
+    "title": "Matter-Neutrino Resonance Above Merging Compact Objects",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://arxiv.org/abs/1510.00751",
+    "abstract": "Matter Neutrino Resonances (MNRs) can drastically modify neutrino flavor evolution in astrophysical environments and may significantly impact nucleosynthesis. Here we further investigate the underlying physics of MNR type flavor transitions. We provide generalized resonance conditions and make analytical predictions for the behavior of the system. We discuss the adiabatic evolution of these transitions, considering both Symmetric and Standard scenarios. Symmetric MNR transitions differ from Standard MNR transitions in that both neutrinos and antineutrinos can completely transform to other flavors simultaneously. We provide an example of the simplest system in which such transitions can occur with a neutrino and an antineutrino having a single energy and emission angle. We further apply linearized stability analysis to predict the location of self-induced nutation type (or bipolar) oscillations due to neutrino-neutrino interactions in the regions where MNR is ineffective. In all cases, we compare our analytical predictions to numerical calculations.",
+    "author": [
+      {
+        "family": "Vaananen",
+        "given": "D."
+      },
+      {
+        "family": "McLaughlin",
+        "given": "G. C."
+      }
+    ],
+    "id": "Vaananen2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "keyword": "neutrino mixing,neutrinos-neutrino interaction",
+    "page": "1-16",
+    "title": "<span class=\"nocase\">Uncovering the Matter-Neutrino Resonance</span>",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1016/j.physletb.2015.11.027",
+    "ISSN": "03702693",
+    "URL": "http://arxiv.org/abs/1509.08975 http://linkinghub.elsevier.com/retrieve/pii/S0370269315008758",
+    "abstract": "In astrophysical environments such as core-collapse supernovae and neutron star-neutron star or neutron star-black hole mergers where dense neutrino media are present, matter-neutrino resonances (MNRs) can occur when the neutrino propagation potentials due to neutrino-electron and neutrino-neutrino forward scattering nearly cancel each other. We show that neutrino flavor transformation through MNRs can be explained by multiple adiabatic solutions similar to the Mikheyev-Smirnov-Wolfenstein mechanism. We find that for the normal neutrino mass hierarchy, neutrino flavor evolution through MNRs can be sensitive to the shape of neutrino spectra and the adiabaticity of the system, but such sensitivity is absent for the inverted hierarchy.",
+    "author": [
+      {
+        "family": "Wu",
+        "given": "Meng-Ru"
+      },
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Qian",
+        "given": "Yong-Zhong"
+      }
+    ],
+    "container-title": "Physics Letters B",
+    "id": "Wu2015",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1
+        ]
+      ]
+    },
+    "keyword": "black hole accretion disk,core-collapse supernova,dense neutrino medium,neutrino oscillations",
+    "page": "89-94",
+    "title": "<span class=\"nocase\">Physics of neutrino flavor transformation through matter neutrino resonances</span>",
+    "type": "article-journal",
+    "volume": "752"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.89.073017",
+    "ISSN": "1550-7998",
+    "URL": "https://link.aps.org/doi/10.1103/PhysRevD.89.073017 http://arxiv.org/abs/1403.1892 http://dx.doi.org/10.1103/PhysRevD.89.073017",
+    "abstract": "The most general case of self-induced neutrino flavor evolution is described by a set of kinetic equations for a dense neutrino gas evolving both in space and time. Solutions of these equations have been typically worked out assuming that either the time (in the core-collapse supernova environment) or space (in the early universe) homogeneity in the initial conditions is preserved through the evolution. In these cases one can gauge away the homogeneous variable and reduce the dimensionality of the problem. In this paper we investigate if small deviations from an initial postulated homogeneity can be amplified by the interacting neutrino gas, leading to a new flavor instability. To this end, we consider a simple two flavor isotropic neutrino gas evolving in time, and initially composed by only \\$\\_e\\$ and \\$\\_e\\$ with equal densities. In the homogeneous case, this system shows a bimodal instability in the inverted mass hierarchy scheme, leading to the well studied flavor pendulum behavior. This would lead to periodic pair conversions \\$\\_e \\_e \\_x \\_x\\$. To break space homogeneity, we introduce small amplitude space-dependent perturbations in the matter potential. By Fourier transforming the equations of motion with respect to the space coordinate, we then numerically solve a set of coupled equations for the different Fourier modes. We find that even for arbitrarily tiny inhomogeneities, the system evolution runs away from the stable pendulum behavior: the different modes are excited and the space-averaged ensemble evolves towards flavor equilibrium. We finally comment on the role of a time decaying neutrino background density in weakening these results.",
+    "author": [
+      {
+        "family": "Mangano",
+        "given": "Gianpiero"
+      },
+      {
+        "family": "Mirizzi",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Saviano",
+        "given": "Ninetta"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Mangano2014",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "page": "073017",
+    "title": "<span class=\"nocase\">Damping the neutrino flavor pendulum by breaking homogeneity</span>",
+    "type": "article-journal",
+    "volume": "89"
+  },
+  {
+    "DOI": "10.1038/326135a0",
+    "ISSN": "0028-0836",
+    "URL": "http://www.nature.com/articles/326135a0",
+    "author": [
+      {
+        "family": "Bahcall",
+        "given": "J. N."
+      },
+      {
+        "family": "Dar",
+        "given": "A."
+      },
+      {
+        "family": "Piran",
+        "given": "T."
+      }
+    ],
+    "container-title": "Nature",
+    "id": "Bahcall1987",
+    "issue": "6109",
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          3
+        ]
+      ]
+    },
+    "page": "135-136",
+    "title": "<span class=\"nocase\">Neutrinos from the recent LMC supernova</span>",
+    "type": "article-journal",
+    "volume": "326"
+  },
+  {
+    "DOI": "10.1088/0954-3899/36/10/105003",
+    "ISSN": "0954-3899",
+    "URL": "http://stacks.iop.org/0954-3899/36/i=10/a=105003?key=crossref.263a789639310d799b274eede970d2e5{\\%}5Cnhttp://arxiv.org/abs/0808.2046{\\%}5Cnhttp://dx.doi.org/10.1088/0954-3899/36/10/105003",
+    "abstract": "We discuss the relationship between a symmetry in the neutrino flavour evolution equations and neutrino flavour oscillations in the collective precession mode. This collective precession mode can give rise to spectral swaps (splits) when conditions can be approximated as homogeneous and isotropic. Multi-angle numerical simulations of supernova neutrino flavour transformation show that when this approximation breaks down, non-collective neutrino oscillation modes decohere kinematically, but the collective precession mode still is expected to stand out. We provide a criterion for significant flavour transformation to occur if neutrinos participate in a collective precession mode. This criterion can be used to understand the suppression of collective neutrino oscillations in anisotropic environments in the presence of a high matter density. This criterion is also useful in understanding the breakdown of the collective precession mode when neutrino densities are small.",
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M"
+      },
+      {
+        "family": "Qian",
+        "given": "Y-Z"
+      }
+    ],
+    "container-title": "Journal of Physics G: Nuclear and Particle Physics",
+    "id": "Duan2009",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "105003",
+    "title": "Neutrino Flavor Spin Waves",
+    "type": "article-journal",
+    "volume": "36"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.84.053013",
+    "ISSN": "1550-7998",
+    "URL": "https://link.aps.org/doi/10.1103/PhysRevD.84.053013",
+    "abstract": "Neutrino-neutrino interactions in dense neutrino streams, like those emitted by a core-collapse supernova, can lead to self-induced neutrino flavor conversions. While this is a nonlinear phenomenon, the onset of these conversions can be examined through a standard stability analysis of the linearized equations of motion. The problem is reduced to a linear eigenvalue equation that involves the neutrino density, energy spectrum, angular distribution, and matter density. In the single-angle case, we reproduce previous results and use them to identify two generic instabilities: The system is stable above a cutoff density (\"cutoff mode\"), or can approach an asymptotic instability for increasing density (\"saturation mode\"). We analyze multi-angle effects on these generic types of instabilities and find that even the saturation mode is suppressed at large densities. For both types of modes, a given multi-angle spectrum typically is unstable when the neutrino and electron densities are comparable, but stable when the neutrino density is much smaller or much larger than the electron density. The role of an instability in the SN context depends on the available growth time and on the range of affected modes. At large matter density, most modes are off-resonance even when the system is unstable.",
+    "annote": "A Single Spectral Zero Crossing Multiple Spectral Crossing",
+    "author": [
+      {
+        "family": "Banerjee",
+        "given": "Arka"
+      },
+      {
+        "family": "Dighe",
+        "given": "Amol"
+      },
+      {
+        "family": "Raffelt",
+        "given": "Georg"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Banerjee2011a",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          9
+        ]
+      ]
+    },
+    "page": "053013",
+    "title": "<span class=\"nocase\">Linearized flavor-stability analysis of dense neutrino streams</span>",
+    "type": "article-journal",
+    "volume": "84"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.111.091101",
+    "ISSN": "0031-9007",
+    "URL": "http://link.aps.org/doi/10.1103/PhysRevLett.111.091101 https://link.aps.org/doi/10.1103/PhysRevLett.111.091101",
+    "author": [
+      {
+        "family": "Raffelt",
+        "given": "Georg"
+      },
+      {
+        "family": "Sarikas",
+        "given": "Srdjan"
+      },
+      {
+        "family": "Seixas",
+        "given": "David De Sousa"
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Raffelt2013",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "page": "091101",
+    "title": "<span class=\"nocase\">Axial Symmetry Breaking in Self-Induced Flavor Conversionof Supernova Neutrino Fluxes</span>",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.118.021101",
+    "ISSN": "0031-9007",
+    "URL": "http://arxiv.org/abs/1610.01612 http://link.aps.org/doi/10.1103/PhysRevLett.118.021101",
+    "abstract": "Collective pair conversion \\$\\_e\\_ex}x}\\$ by forward scattering, where \\$x=\\$ or \\$\\$, may be generic for supernova neutrino transport. Depending on the local angular intensity of the electron lepton number carried by neutrinos, the conversion rate is \"fast,\" i.e., of the order of \\${2}G\\_{{F}}(n\\_{\\_e}{-}\\\\,n\\_{\\_e})m\\^2\\_{atm}/2E\\$. We present a novel approach to understand these phenomena: A dispersion relation for the frequency and wave number \\$(,{K})\\$ of disturbances in the mean field of \\$\\_e\\_x\\$ flavor coherence. Run-away solutions occur in \"dispersion gaps,\" i.e., in \"forbidden\" intervals of \\$\\$ and/or \\${K}\\$ where propagating plane waves do not exist. We stress that the actual solutions also depend on the initial and/or boundary conditions which need to be further investigated.",
+    "author": [
+      {
+        "family": "Izaguirre",
+        "given": "Ignacio"
+      },
+      {
+        "family": "Raffelt",
+        "given": "Georg"
+      },
+      {
+        "family": "Tamborra",
+        "given": "Irene"
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Izaguirre2016a",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "page": "021101",
+    "title": "<span class=\"nocase\">Fast Pairwise Conversion of Supernova Neutrinos: A Dispersion Relation Approach</span>",
+    "type": "article-journal",
+    "volume": "118"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.116.081101",
+    "ISSN": "10797114",
+    "abstract": "The usual treatments of the neutrino flavor-evolution, beyond a surface above the last scattering, assume identical angular distributions at this distance for the different initial (unmixed) flavors, and for particles and antiparticles. Taking into account differences in these distributions that must be present, as a result of the species-dependent scattering cross-sections lower down in the star, leads to a new set of non-linear equations. These equations are unstable, even at the initial surface, with respect to perturbations that have both tiny mixing from neutrino oscillations and that break all-over spherical-symmetry. There could be important consequences for: 1) the dynamics of the explosion, 2) R-process-nucleosynthesis, and 3) some future observable neutrino pulse.",
+    "author": [
+      {
+        "family": "Sawyer",
+        "given": "R. F."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Sawyer2016",
+    "issue": "8",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "1-5",
+    "title": "<span class=\"nocase\">Neutrino cloud instabilities just above the neutrino sphere of a supernova</span>",
+    "type": "article-journal",
+    "volume": "116"
+  },
+  {
+    "DOI": "10.1146/annurev.nucl.012809.104524",
+    "ISSN": "0163-8998",
+    "URL": "http://arxiv.org/abs/1001.2799 http://www.annualreviews.org/doi/10.1146/annurev.nucl.012809.104524",
+    "abstract": "We review the rich phenomena associated with neutrino flavor transformation in the presence of neutrino self-coupling. Our exposition centers on three collective neutrino oscillation scenarios: a simple bipolar neutrino system that initially consists of mono-energetic electron neutrinos and antineutrinos; a homogeneous and isotropic neutrino gas with multiple neutrino/antineutrino species and continuous energy spectra; and a generic neutrino gas in an anisotropic environment. We use each of these scenarios to illustrate key facets of collective neutrino oscillations. We discuss the implications of collective neutrino flavor oscillations for core collapse supernova physics and for the prospects of obtaining fundamental neutrino properties, e.g., the neutrino mass hierarchy and \\$13}\\$ from a future observed supernova neutrino signal.",
+    "annote": "NULL",
+    "author": [
+      {
+        "family": "Duan",
+        "given": "Huaiyu"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M."
+      },
+      {
+        "family": "Qian",
+        "given": "Yong-Zhong"
+      }
+    ],
+    "container-title": "Annual Review of Nuclear and Particle Science",
+    "id": "Duan2010",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          11
+        ]
+      ]
+    },
+    "keyword": "neutrino masses and mixings,neutrino spectral swaps,splits,supernova",
+    "page": "569-594",
+    "title": "<span class=\"nocase\">Collective neutrino oscillations</span>",
+    "type": "article-journal",
+    "volume": "60"
+  },
+  {
+    "DOI": "10.1088/1475-7516/2016/03/042",
+    "ISSN": "1475-7516",
+    "URL": "http://arxiv.org/abs/1602.00698{\\%}0Ahttp://dx.doi.org/10.1088/1475-7516/2016/03/042 http://stacks.iop.org/1475-7516/2016/i=03/a=042?key=crossref.13cc95271dc6922edc44d8995330a5a6",
+    "abstract": "Neutrino-neutrino refraction in dense media can cause self-induced flavor conversion triggered by collective run-away modes of the interacting flavor oscillators. The growth rates were usually found to be of order a typical vacuum oscillation frequency \\$m\\^2/2E\\$. However, even in the simple case of a \\$\\_e\\$ beam interacting with an opposite-moving \\$\\_e\\$ beam, and allowing for spatial inhomogeneities, the growth rate of the fastest-growing Fourier mode is of order \\$={2} G\\_{F} n\\_{, a typical \\$\\$–\\$\\$ interaction energy. This growth rate is much larger than the vacuum oscillation frequency and gives rise to flavor conversion on a much shorter time scale. This phenomenon of \"fast flavor conversion\" occurs even for vanishing \\$m\\^2/2E\\$ and thus does not depend on energy, but only on the angle distributions. Moreover, it does not require neutrinos to mix or to have masses, except perhaps for providing seed disturbances. We also construct a simple homogeneous example consisting of intersecting beams and study a schematic supernova model proposed by Ray Sawyer, where \\$\\_e\\$ and \\$\\_e\\$ emerge with different zenith-angle distributions, the key ingredient for fast flavor conversion. What happens in realistic astrophysical scenarios remains to be understood.",
+    "author": [
+      {
+        "family": "Chakraborty",
+        "given": "Sovan"
+      },
+      {
+        "family": "Hansen",
+        "given": "Rasmus Sloth"
+      },
+      {
+        "family": "Izaguirre",
+        "given": "Ignacio"
+      },
+      {
+        "family": "Raffelt",
+        "given": "G.G."
+      }
+    ],
+    "container-title": "Journal of Cosmology and Astroparticle Physics",
+    "id": "Chakraborty2016",
+    "issue": "03",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "page": "042-042",
+    "title": "<span class=\"nocase\">Self-induced neutrino flavor conversion without flavor mixing</span>",
+    "type": "article-journal",
+    "volume": "2016"
+  },
+  {
+    "DOI": "10.1088/1475-7516/2017/02/019",
+    "ISSN": "1475-7516",
+    "URL": "http://arxiv.org/abs/1609.00528{\\%}0Ahttp://dx.doi.org/10.1088/1475-7516/2017/02/019 http://stacks.iop.org/1475-7516/2017/i=02/a=019?key=crossref.2c696f3fb9fb66ce68da8c31bb8af90c",
+    "abstract": "It has been recently pointed out that neutrino fluxes from a supernova can show substantial flavor conversions almost immediately above the core. Using linear stability analyses and numerical solutions of the fully nonlinear equations of motion, we perform a detailed study of these fast conversions, focussing on the region just above the supernova core. We carefully specify the instabilities for evolution in space or time, andfind that neutrinos travelling towards the core make fast conversions more generic, i.e., possible for a wider range of flux ratios and angular asymmetries that produce a crossing between the zenith-angle spectra of \\$\\_e\\$ and \\${\\_e}\\$. Using fluxes and angular distributions predicted by supernova simulations, we find that fast conversions can occur within tens of nanoseconds, only a few meters away from the putative neutrinospheres. If these fast flavor conversions indeed take place, they would have important implications for the supernova explosion mechanism and nucleosynthesis.",
+    "author": [
+      {
+        "family": "Dasgupta",
+        "given": "Basudeb"
+      },
+      {
+        "family": "Mirizzi",
+        "given": "Alessandro"
+      },
+      {
+        "family": "Sen",
+        "given": "Manibrata"
+      }
+    ],
+    "container-title": "Journal of Cosmology and Astroparticle Physics",
+    "id": "Dasgupta2017",
+    "issue": "02",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          2
+        ]
+      ]
+    },
+    "page": "019-019",
+    "title": "<span class=\"nocase\">Fast neutrino flavor conversions near the supernova core with realistic flavor-dependent angular distributions</span>",
+    "type": "article-journal",
+    "volume": "2017"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.108.261104",
+    "ISSN": "00319007",
+    "abstract": "We argue that the small fraction of neutrinos that undergo direction-changing scattering outside of the neutrinosphere could have significant influence on neutrino flavor transformation in core-collapse supernova environments.We show that the standard treatment for collective neutrino flavor transformation is adequate at late times but could be inadequate in early epochs of core-collapse supernovae, where the potentials that govern neutrino flavor evolution are affected by the scattered neutrinos. Taking account of this effect, and the way it couples to entropy and composition, will require a new approach in neutrino flavor transformation modeling.",
+    "author": [
+      {
+        "family": "Cherry",
+        "given": "John F."
+      },
+      {
+        "family": "Carlson",
+        "given": "J."
+      },
+      {
+        "family": "Friedland",
+        "given": "Alexander"
+      },
+      {
+        "family": "Fuller",
+        "given": "George M."
+      },
+      {
+        "family": "Vlasenko",
+        "given": "Alexey"
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "Cherry2012",
+    "issue": "June",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1-5",
+    "title": "<span class=\"nocase\">Neutrino scattering and flavor transformation in supernovae</span>",
+    "type": "article-journal",
+    "volume": "108"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.85.113007",
+    "ISSN": "15507998",
+    "abstract": "Neutrinos streaming from a supernova (SN) core occasionally scatter in the envelope, producing a small \"neutrino halo\" with a much broader angle distribution than the primary flux originating directly from the core. Cherry et al. (2012) have recently pointed out that, during the accretion phase, the halo actually dominates neutrino-neutrino refraction at distances exceeding some 100 km. However, the multi-angle matter effect (which increases if the angle distribution is broader) still appears to suppress self-induced flavor conversion during the accretion phase.",
+    "author": [
+      {
+        "family": "Sarikas",
+        "given": "Srdjan"
+      },
+      {
+        "family": "Tamborra",
+        "given": "Irene"
+      },
+      {
+        "family": "Raffelt",
+        "given": "Georg"
+      },
+      {
+        "family": "Hüdepohl",
+        "given": "Lorenz"
+      },
+      {
+        "family": "Janka",
+        "given": "Hans Thomas"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Sarikas2012a",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1-5",
+    "title": "<span class=\"nocase\">Supernova neutrino halo and the suppression of self-induced flavor conversion</span>",
+    "type": "article-journal",
+    "volume": "85"
+  },
+  {
+    "DOI": "10.1016/j.physleta.2009.06.015",
+    "ISSN": "03759601",
+    "URL": "http://dx.doi.org/10.1016/j.physleta.2009.06.015",
+    "abstract": "Numerical estimates for pair production from vacuum in the presence of strong electromagnetic fields are derived, for two experimental schemes: the first concerns a laser based X-FEL and the other imitates the E144 experiment. The approximation adopted in this work is that of two level multiphoton on resonance. Utilizing achievable values of laser beam parameters, an enhanced production efficiency of up to 1011and 1015pairs can be obtained, for the two schemes respectively. 2009 Elsevier B.V. All rights reserved.",
+    "author": [
+      {
+        "family": "Ploumistakis",
+        "given": "I."
+      },
+      {
+        "family": "Moustaizis",
+        "given": "S. D."
+      },
+      {
+        "family": "Tsohantjis",
+        "given": "I."
+      }
+    ],
+    "container-title": "Physics Letters, Section A: General, Atomic and Solid State Physics",
+    "id": "Ploumistakis2009",
+    "issue": "32",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "keyword": "High intensity lasers,Multiphoton processes,Pair production",
+    "page": "2897-2900",
+    "publisher": "Elsevier B.V.",
+    "title": "<span class=\"nocase\">Towards laser based improved experimental schemes for multiphoton e+e-pair production from vacuum</span>",
+    "type": "article-journal",
+    "volume": "373"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.53.5382",
+    "ISSN": "0556-2821",
+    "URL": "http://arxiv.org/abs/hep-ph/9604341 http://link.aps.org/doi/10.1103/PhysRevD.53.5382",
+    "abstract": "Analytical solutions are obtained to the nonlinear equations describing neutrino oscillations when explicit neutrino-antineutrino asymmetries are present. Such a system occurs in the early Universe if neutrinos have a non-zero chemical potential. Solutions to the equations lead to a new type of coherent behavior governed by two modes. These bimodal solutions provide new insights into dense neutrino gases and into neutrino oscillations in the early Universe, thereby allowing one to surmise the flavor behavior of neutrinos with a non-zero chemical potential.",
+    "author": [
+      {
+        "family": "Samuel",
+        "given": "Stuart"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Samuel1996",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          5
+        ]
+      ]
+    },
+    "page": "5382-5393",
+    "title": "<span class=\"nocase\">Bimodal coherence in dense self-interacting neutrino gases</span>",
+    "type": "article-journal",
+    "volume": "53"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.96.043016",
+    "ISSN": "24700029",
+    "abstract": "Supernova neutrinos can exhibit a rich variety of flavor conversion mechanisms. In particular, they can experience \"fast\" self-induced flavor conversions almost immediately above the core. Very recently, a novel method has been proposed to investigate these phenomena, in terms of the dispersion relation for the complex frequency and wave number (\\$\\$,\\$k\\$) of disturbances in the mean field of the \\$\\_e\\_x\\$ flavor coherence. We discuss a systematic approach to such instabilities, originally developed in the context of plasma physics, and based of the time-asymptotic behavior of the Green’s function of the system. Instabilities are typically seen to emerge for complex \\$\\$, and can be further characterized as convective (moving away faster than they spread) and absolute (growing locally), depending on \\$k\\$-dependent features. Stable cases emerge when \\$k\\$ (but not \\$\\$) is complex, leading to disturbances damped in space, or when both \\$\\$ and \\$k\\$ are real, corresponding to complete stability. The analytical classification of both unstable and stable modes leads not only to qualitative insights about their features but also to quantitative predictions about the growth rates of instabilities. Representative numerical solutions are discussed in a simple two-beam model of interacting neutrinos. As an application, we argue that supernova and binary neutron star mergers exhibiting a \"crossing\" in the electron lepton number would lead to an absolute instability in the flavor content of the neutrino gas.",
+    "author": [
+      {
+        "family": "Capozzi",
+        "given": "Francesco"
+      },
+      {
+        "family": "Dasgupta",
+        "given": "Basudeb"
+      },
+      {
+        "family": "Lisi",
+        "given": "Eligio"
+      },
+      {
+        "family": "Marrone",
+        "given": "Antonio"
+      },
+      {
+        "family": "Mirizzi",
+        "given": "Alessandro"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Capozzi2017",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "1-20",
+    "title": "<span class=\"nocase\">Fast flavor conversions of supernova neutrinos: Classifying instabilities via dispersion relations</span>",
+    "type": "article-journal",
+    "volume": "96"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.65.053011",
+    "ISSN": "0556-2821",
+    "URL": "https://link.aps.org/doi/10.1103/PhysRevD.65.053011",
+    "abstract": "In the early universe or in some regions of supernovae, the neutrino refractive index is dominated by the neutrinos themselves. Several previous studies have found numerically that these self-interactions have the effect of coupling different neutrino modes in such a way as to synchronize the flavor oscillations which otherwise would depend on the energy of a given mode. We provide a simple explanation for this baffling phenomenon in analogy to a system of magnetic dipoles which are coupled by their self-interactions to form one large magnetic dipole which then precesses coherently in a weak external magnetic field. In this picture the synchronized neutrino oscillations are perfectly analogous to the weak-field Zeeman effect in atoms.",
+    "author": [
+      {
+        "family": "Pastor",
+        "given": "Sergio"
+      },
+      {
+        "family": "Raffelt",
+        "given": "Georg"
+      },
+      {
+        "family": "Semikoz",
+        "given": "Dmitry V."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Pastor2002",
+    "issue": "5",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          2
+        ]
+      ]
+    },
+    "page": "053011",
+    "title": "<span class=\"nocase\">Physics of synchronized neutrino oscillations caused by self-interactions</span>",
+    "type": "article-journal",
+    "volume": "65"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.78.125015",
+    "ISSN": "15507998",
+    "abstract": "We identify a generic new form of collective flavor oscillations in dense neutrino gases that amounts to a self-induced parametric resonance. It occurs in a homogeneous and isotropic ensemble when a range of neutrino modes is prepared in a different flavor than the neighboring modes with lower and higher energies. The flavor content of the intermediate spectral part librates relative to the other parts with a frequency corresponding to a typical Delta m\\^2/2E. This libration persists in the limit of an arbitrarily large neutrino density where one would have expected synchronized flavor oscillations.",
+    "author": [
+      {
+        "family": "Raffelt",
+        "given": "Georg G."
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Raffelt2008",
+    "issue": "12",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "1-9",
+    "title": "<span class=\"nocase\">Self-induced parametric resonance in collective neutrino oscillations</span>",
+    "type": "article-journal",
+    "volume": "78"
+  },
+  {
+    "DOI": "10.1103/PhysRevD.74.105010",
+    "ISSN": "15507998",
+    "abstract": "Neutrino-neutrino interactions can lead to collective flavour conversion effects in supernovae and in the early universe. We demonstrate that the case of \"bipolar\" oscillations, where a dense gas of neutrinos and antineutrinos in equal numbers completely converts from one flavour to another even if the mixing angle is small, is equivalent to a pendulum in flavour space. Bipolar flavour conversion corresponds to the swinging of the pendulum, which begins in an unstable upright position (the initial flavour), and passes through momentarily the vertically downward position (the other flavour) in the course of its motion. The time scale to complete one cycle of oscillation depends logarithmically on the vacuum mixing angle. Likewise, the presence of an ordinary medium can be shown analytically to contribute to a logarithmic increase in the bipolar conversion period. We further find that a more complex (and realistic) system of unequal numbers of neutrinos and antineutrinos is analogous to a spinning top subject to a torque. This analogy easily explains how such a system can oscillate in both the bipolar and the synchronised mode, depending on the neutrino density and the size of the neutrino-antineutrino asymmetry. Our simple model applies strictly only to isotropic neutrino gasses. In more general cases, and especially for neutrinos streaming from a supernova core, different modes couple to each other with unequal strength, an effect that can lead to kinematical decoherence in flavour space rather than collective oscillations. The exact circumstances under which collective oscillations occur in non-isotropic media remain to be understood.",
+    "author": [
+      {
+        "family": "Hannestad",
+        "given": "Steen"
+      },
+      {
+        "family": "Raffelt",
+        "given": "Georg G."
+      },
+      {
+        "family": "Sigl",
+        "given": "Günter"
+      },
+      {
+        "family": "Wong",
+        "given": "Yvonne Y Y"
+      }
+    ],
+    "container-title": "Physical Review D",
+    "id": "Hannestad2006",
+    "issue": "10",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "1-21",
+    "title": "<span class=\"nocase\">Self-induced conversion in dense neutrino gases: Pendulum in flavor space</span>",
+    "type": "article-journal",
+    "volume": "74"
+  }
+]
