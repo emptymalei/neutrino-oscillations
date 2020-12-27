@@ -10,6 +10,7 @@ menu:
   book:
     parent: "1. General Principle of Neutrino Oscillations"
 weight: 210
+toc: false
 ---
 
 Before carrying out the calculations, I can estimate the frequency of the oscillations of the neutrino between its flavors. In natural units, frequency has the same dimension as energy.

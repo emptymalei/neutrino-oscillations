@@ -10,6 +10,7 @@ menu:
   book:
     parent: "1. General Principle of Neutrino Oscillations"
 weight: 200
+toc: false
 ---
 
 Since the flavor eigenstates of the neutrino are not the same as its propagation eigenstates, it can change flavor while it propagates.
