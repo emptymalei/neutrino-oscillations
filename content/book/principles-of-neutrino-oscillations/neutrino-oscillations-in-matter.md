@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   book:
-    parent: "1. General Principle of Neutrino Oscillations"
+    parent: "2. General Principle of Neutrino Oscillations"
 weight: 220
 toc: false
 ---
@@ -54,4 +54,4 @@ which gives the Mikheyev-Smirnov-Wolfenstein (MSW) resonance condition.
 
 
 
-[^matter]: The word "matter" in this dissertation refers to ordinary matter composed of electrons, positrons, nucleons and nuclei. I assume that the temperature and density of the environment are not high enough to produce muons and tau particles. I will discuss the effect of the dense neutrino medium in Chapter 4 Collective Neutrino Oscillations.
+[^matter]: The word "matter" in this book refers to ordinary matter composed of electrons, positrons, nucleons and nuclei. I assume that the temperature and density of the environment are not high enough to produce muons and tau particles. I will discuss the effect of the dense neutrino medium in Chapter 4 Collective Neutrino Oscillations.

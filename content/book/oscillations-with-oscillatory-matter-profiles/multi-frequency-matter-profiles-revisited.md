@@ -7,7 +7,7 @@ lastmod: 2020-04-20T11:53:07+02:00
 draft: false
 menu:
   book:
-    parent: "2. Neutrino Oscillations with Oscillatory Matter Profile"
+    parent: "3. Neutrino Oscillations with Oscillatory Matter Profile"
 images: []
 weight: 370
 toc: false
@@ -61,7 +61,7 @@ As an example of a matter profile with multiple frequencies, I will consider the
 \label{eq-castle-wall-potential}
 \end{equation}
 {{</m>}}
-where $n$ is an arbitrary integer, $X$ is the period of the potential, and $\Lambda_1$, $\Lambda_2$, and $X_1$ are constants. The parametric resonance condition for the castle wall potential has been derived by E. Akhmedov~\cite{Akhmedov2000}:
+where $n$ is an arbitrary integer, $X$ is the period of the potential, and $\Lambda_1$, $\Lambda_2$, and $X_1$ are constants. The parametric resonance condition for the castle wall potential has been derived by E. Akhmedov [^Akhmedov2000]:
 {{<m>}}
 \begin{equation}
     \frac{\tan (\omega_{\mathrm m1}X_1/2)}{\tan (\omega_{\mathrm m2}X_2/2)} = - \frac{\cos 2\theta_{\mathrm m2}}{\cos 2\theta_{\mathrm m1}},
@@ -116,3 +116,5 @@ In the above example, there are an infinite number of Rabi modes that are on res
 | $\{2,0, 0, \cdots\}$   | $1.3\times 10^{-3}$                | $2.4\times 10^{2}$ | $2.0\times 10^{-4}$      |
 
 Table castle-wall-relative-detunings-some shows the amplitudes and relative detunings of a few Rabi modes $\{n_a\}$ and the changes to the relative detunings of the on-resonance modes due to these Rabi modes if they are off resonance.
+
+[^Akhmedov2000]: {{< ref key="Akhmedov2000" >}}

@@ -7,7 +7,7 @@ lastmod: 2020-04-20T11:53:07+02:00
 draft: false
 menu:
   book:
-    parent: "2. Neutrino Oscillations with Oscillatory Matter Profile"
+    parent: "3. Neutrino Oscillations with Oscillatory Matter Profile"
 images: []
 weight: 340
 toc: false
@@ -48,6 +48,7 @@ respectively.
 
 
 {{< figure src="../assets/interference-reduction-slide-with-legend.png" width="100%" title="Transition Probabilities with Reduction" caption="" >}}
+
 The transition probabilities as functions of distance $r$ for a neutrino propagating through matter profile of the form $\lambda(r) = \lambda_0 + \lambda_1 \cos (k_1 r) + \lambda_2 \cos (k_2 r)$ with different values of $\lambda _ 2$ and $k _ 2$ as labeled. The markers are for the numerical results obtained by using the Hamiltonian in Eqn. \eqref{eq-hamiltonian-bg-matter-basis-multi-frequency}, and the continuous curves are obtained using the Rabi formula in Eqn. \eqref{app:rabi-system-transition-probability} but with the values of the modified relative detunings $\RD' _ {2+}$ in Table multi-frequency-rabi-simple-relative-detuning-destruction. In all three cases, $\lambda_0$ is half of the MSW resonance potential, $\lambda_1/\omega_\mm = 5.2\times 10^{-4}$ and $k_1/\omega_\mm = 1$.
 
 | $\lambda_2/\omega_\mm$ | $k_2/\omega_\mm$ | $D'_ {(1-)}$         | $D' _ {(2+)}$ | $D'_ {(2-)}$ |

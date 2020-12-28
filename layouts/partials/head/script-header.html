@@ -1,11 +1,19 @@
 <script>
     MathJax = {
+      loader: {load: ['[tex]/tagformat']},
       tex: {
         inlineMath: [['$', '$'], ['\\(', '\\)']],
-        tags: 'ams'
+        tags: 'ams',
+        packages: {'[+]': ['tagformat']}
       },
       svg: {
         fontCache: 'global'
+      },
+      tagformat: {
+        number: (n) => n.toString(),
+        tag:    (tag) => '(' + tag + ')',
+        id:     (id) => 'eqn-' + id.replace(/\s/g, '_').replace(':', '_').replace('%3A', '_'),
+        url:    (id, base) => base + '#' + encodeURIComponent(id),
       }
     };
     </script>

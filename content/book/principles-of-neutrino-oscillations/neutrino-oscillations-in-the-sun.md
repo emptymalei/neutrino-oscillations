@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   book:
-    parent: "1. General Principle of Neutrino Oscillations"
+    parent: "2. General Principle of Neutrino Oscillations"
 weight: 230
 toc: false
 ---

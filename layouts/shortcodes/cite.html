@@ -1,0 +1,7 @@
+{{ $key := .Get "key" }}
+
+{{ range (index $.Site.Data "references") }}
+    {{ if eq $key .id }}
+        {{ (index .author 0).given }} {{ (index .author 0).family }}, "{{ .title | safeHTML }}", {{ index . "container-title" }} <span class="bold">{{ .volume }}</span>, {{ .page }} {{ with index (index (index .issued "date-parts") 0) 0 }} ({{ . }}) {{ end }}.
+    {{ end }}
+{{ end }}

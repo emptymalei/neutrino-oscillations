@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   book:
-    parent: "1. General Principle of Neutrino Oscillations"
+    parent: "2. General Principle of Neutrino Oscillations"
 weight: 240
 toc: false
 ---
@@ -34,7 +34,7 @@ where
 \end{align}
 {{</m>}}
 which is a vector of length $\omega_{\mathrm v}$ and tilted away from the third axis by angle $2\theta_{\mathrm v}$.
-Throughout the dissertation, I will use "$\vec{\phantom{x~}}$" to denote a vector in flavor space.
+Throughout the book, I will use "$\vec{\phantom{x~}}$" to denote a vector in flavor space.
 The flavor quantum state of the neutrino is represented by its flavor isospin which is defined as
 {{<m>}}
 \begin{equation}

@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   book:
-    parent: "1. General Principle of Neutrino Oscillations"
+    parent: "2. General Principle of Neutrino Oscillations"
 weight: 210
 toc: false
 ---
@@ -145,7 +145,7 @@ P(r) =  1-\sin^2(2\theta_\vv)\sin^2\left( \frac{\omega_\vv}{2} r \right).
 {{</m>}}
 I plot the above result in the following figure which clearly shows the oscillatory behavior. The oscillation length is determined by the characteristic energy scale $\omega_\vv$, which confirms our estimation in Eqn. \eqref{chap:basics-section:neutrinos-eqn:qualitative-method-frequency}. The oscillation amplitude is determined by $\sin^2(2\theta_\vv)$.
 
-{{< figure src="../assets/neutrino-vaccum-osc-2-flavor.png" width="100%" title="The electron flavor neutrino survival probability in vacuum oscillations as a function of distance $r$ which is measured in terms of vacuum oscillation frequency $\omega_\vv$. The mixing angle $\theta_\vv$ is given by $\sin^2\theta_\vv=0.30 \approx \sin^2 \theta_{12}$." >}}
+{{< figure src="../assets/neutrino-vaccum-osc-2-flavor.png" width="100%" title="Two-Flavor Oscillations in Vacuum" caption="The electron flavor neutrino survival probability in vacuum oscillations as a function of distance $r$ which is measured in terms of vacuum oscillation frequency $\omega_\vv$. The mixing angle $\theta_\vv$ is given by $\sin^2\theta_\vv=0.30 \approx \sin^2 \theta_{12}$." >}}
 
 
 
