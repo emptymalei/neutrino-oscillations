@@ -1,0 +1,180 @@
+<!doctype html><html lang=en-us><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="ie=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv=content-security-policy content="default-src * self blob: data: gap:; style-src * 'unsafe-inline' blob: data: gap:; script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob: data: gap:; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:; font-src 'self' * 'unsafe-inline' blob: data: gap:;"><link rel=preload as=font href=/fonts/vendor/jost/jost-v4-latin-regular.woff2 type=font/woff2 crossorigin><link rel=preload as=font href=/fonts/vendor/jost/jost-v4-latin-700.woff2 type=font/woff2 crossorigin><link rel=preconnect href=https://neutrino.leima.is><link rel=stylesheet href=/main.cfaff33de4e5150b4be3c9be6ad54e4ad0117cd2b699b1477aaef6ce8d2911dd7c0a04547894416d4028a4fde571092eeb05b54ecf2109ac72cb57eee9328dcc.css integrity="sha512-z6/zPeTlFQtL48m+atVOStARfNK2mbFHeq72zo0pEd18CgRUeJRBbUAopP3lcQku6wW1Ts8hCaxyy1fu6TKNzA==" crossorigin=anonymous><noscript><style>img.lazyload{display:none}</style></noscript><style>figcaption{border-left:3px solid gray;padding-left:10px}</style><meta name=robots content="index, follow"><meta name=googlebot content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><meta name=bingbot content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><title>Equation of Motion - Neutrino Oscillations</title><meta name=description content="Equation of Motion"><link rel=canonical href=/book/collective-neutrino-oscillations/1_equation-of-motion/><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="/neutrinos.jpg"><meta name=twitter:title content="Equation of Motion"><meta name=twitter:description content="Equation of Motion"><meta name=twitter:site content="@"><meta name=twitter:creator content="@"><meta property="og:title" content="Equation of Motion"><meta property="og:description" content="Equation of Motion"><meta property="og:type" content="article"><meta property="og:url" content="/book/collective-neutrino-oscillations/1_equation-of-motion/"><meta property="og:image" content="/neutrinos.jpg"><meta property="article:published_time" content="2020-04-20T11:53:07+02:00"><meta property="article:modified_time" content="2020-12-28T15:52:39+01:00"><meta property="og:site_name" content="Neutrino Oscillations"><meta property="article:publisher" content="https://www.facebook.com/"><meta property="article:author" content="https://www.facebook.com/"><meta property="og:locale" content="en_US"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"\/book\/collective-neutrino-oscillations\/1_equation-of-motion\/"},"headline":"Equation of Motion","image":[],"datePublished":"2020-04-20T11:53:07CET","dateModified":"2020-12-28T15:52:39CET","author":{"@type":"Organization","name":"Neutrino Oscillations"},"publisher":{"@type":"Organization","name":"Neutrino Oscillations","logo":{"@type":"ImageObject","url":"\/logo.png"}},"description":"Equation of Motion"}</script><script type=application/ld+json>{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"\/"},{"@type":"ListItem","position":2,"name":"Bookcollective Neutrino Oscillations1 Equation of Motion","item":"\/bookcollective-neutrino-oscillations1_equation-of-motion\/"}]}</script><meta name=theme-color content="#fff"><link rel=apple-touch-icon sizes=180x180 href=/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><script>MathJax={loader:{load:['[tex]/tagformat']},tex:{inlineMath:[['$','$'],['\\(','\\)']],tags:'ams',packages:{'[+]':['tagformat']}},svg:{fontCache:'global'},tagformat:{number:(n)=>n.toString(),tag:(tag)=>'('+tag+')',id:(id)=>'eqn-'+id.replace(/\s/g,'_').replace(':','_').replace('%3A','_'),url:(id,base)=>base+'#'+encodeURIComponent(id),}};</script><script type=text/x-mathjax-config>
+  MathJax.Hub.Config({ TeX: { extensions: ["color.js","cancel.js", "AMSmath.js", "AMSsymbols.js"] }});
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Register.StartupHook("TeX Jax Ready",function () {
+    MathJax.Hub.Insert(MathJax.InputJax.TeX.Definitions.macros,{
+       cancel: ["Extension","cancel"]
+       });
+    });
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Config({
+       tex2jax: {
+         preview: "none",
+         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+       }
+    });
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Queue(function() {
+         var all = MathJax.Hub.getAllJax(), i;
+         for(i=0; i &lt; all.length; i += 1) {
+             all[i].SourceElement().parentNode.className += ' has-jax';
+         }
+    });
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Config({
+    tex2jax: {
+       processEscapes: true
+    }
+    });
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Config({
+    "fast-preview": {
+    Chunks: {EqnChunk: 10000, EqnChunkFactor: 1, EqnChunkDelay: 0},
+    color: "inherit!important",
+    updateTime: 30, updateDelay: 6,
+    messageStyle: "none",
+    disabled: false
+    }
+    });
+    </script><script type=text/x-mathjax-config>
+  MathJax.Hub.Config({
+    TeX: {
+       Macros: {
+         overlr: ['\\overset\\leftrightarrow{\#1}',1],
+         overl: ['\\overset\leftarrow{\#1}',1],
+         overr: ['\\overset\rightarrow{\#1}',1],
+         bra: ['\\left\\langle \#1\\right|',1],
+         ket: ['\\left| \#1\\right\\rangle',1],
+         braket: ['\\langle \#1 \\mid \#2 \\rangle',2],
+         avg: ['\\left&lt; \#1 \\right>',1],
+         slashed: ['\\cancel{\#1}',1],
+         bold: ['\\boldsymbol{\#1}',1],
+         sech: ['\\operatorname{sech}{\#1}',1],
+         csch: ['\\operatorname{csch}{\#1}',1],
+         Tr: ['\\operatorname{Tr}{\#1}',1],
+         ud: ['{\#1^\\dagger', 1]
+       }
+    }
+    });
+    MathJax.InputJax.TeX.Macro('ff', '{\\mathrm f}');
+    </script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script><script id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js></script><div style=display:none>$$
+\newcommand\Tr{\mathrm{Tr}}
+\newcommand{\braket}[2]{\langle #1 \mid #2 \rangle}
+\newcommand\I{\mathbb{I}}
+\newcommand{\avg}[1]{\left&lt; #1 \right>}
+\newcommand{\RD}{D}
+\newcommand{\ri}{\mathrm{i}}
+\DeclareMathOperator{\sign}{sign}
+\DeclareMathOperator{\Sign}{Sign}
+\newcommand{\ii}{\mathrm i}
+\newcommand{\vv}{\mathrm v}
+\newcommand{\ff}{\mathrm f}
+\newcommand{\mm}{\mathrm m}
+\newcommand{\ee}{\mathrm e}
+\newcommand{\xx}{\mathrm x}
+\newcommand{\RR}{\mathrm R}
+\newcommand{\dd}{\mathrm d}
+\newcommand{\FF}{\mathrm F}
+\newcommand{\BB}{\mathrm B}
+\newcommand{\vph}{v_{\mathrm{ph}}}
+$$</div></head><body class="book single"><div class="header-bar fixed-top"></div><header class="navbar fixed-top navbar-expand-md navbar-light"><div class=container><input class="menu-btn order-0" type=checkbox id=menu-btn>
+<label class="menu-icon d-md-none" for=menu-btn><span class=navicon></span></label><a class="navbar-brand order-1 order-md-0 mr-auto" href=/>Neutrino Oscillations</a>
+<button id=mode class="btn btn-link order-2 order-md-4" type=button aria-label="Toggle mode">
+<span class=toggle-dark><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-moon"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg></span><span class=toggle-light><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-sun"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></span></button><ul class="navbar-nav social-nav order-3 order-md-5"><li class=nav-item><a class=nav-link href=https://github.com/emptymalei/neutrino-oscillations><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77a5.44 5.44.0 00-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg><span class="ml-2 sr-only">GitHub</span></a></li></ul><div class="collapse navbar-collapse order-4 order-md-1"><ul class="navbar-nav main-nav mr-auto order-5 order-md-2"><li class="nav-item active"><a class=nav-link href=/book/>Book</a></li><li class=nav-item><a class=nav-link href=http://docs.neutrino.xyz>Notes</a></li><li class=nav-item><a class=nav-link href=http://neutrino.xyz>neutrino.xyz</a></li></ul><div class="break order-6 d-md-none"></div><form class="navbar-form flex-grow-1 order-7 order-md-3"><input id=userinput class="form-control is-search" type=search placeholder="Search docs..." aria-label="Search docs..." autocomplete=off><div id=suggestions class="shadow bg-white rounded"></div></form></div></div></header><div class="wrap container" role=document><div class=content><div class="row flex-xl-nowrap"><div class="col-lg-5 col-xl-4 docs-sidebar"><nav class=docs-links aria-label="Main navigation"><h3>0. Abstract</h3><ul class=list-unstyled><li><a class=docs-link href=/book/abstract/>Abstract</a></li></ul><h3>1. Introduction</h3><ul class=list-unstyled><li><a class=docs-link href=/book/introduction/the-little-neutral-one/>The Little Neutral One</a></li><li><a class=docs-link href=/book/introduction/stellar-neutrinos/>Stellar Neutrinos</a></li><li><a class=docs-link href=/book/introduction/supernova-neutrinos/>Supernova Neutrinos</a></li><li><a class=docs-link href=/book/introduction/organization-of-the-book/>Organization of the Book</a></li></ul><h3>2. General Principle of Neutrino Oscillations</h3><ul class=list-unstyled><li><a class=docs-link href=/book/principles-of-neutrino-oscillations/principles-of-neutrino-oscillations/>General Principles of Neutrino Oscillations</a></li><li><a class=docs-link href=/book/principles-of-neutrino-oscillations/vacuum-oscillations/>Vacuum Oscillations</a></li><li><a class=docs-link href=/book/principles-of-neutrino-oscillations/neutrino-oscillations-in-matter/>Neutrino Oscillations in Matter</a></li><li><a class=docs-link href=/book/principles-of-neutrino-oscillations/neutrino-oscillations-in-the-sun/>Neutrino Oscillations in the Sun</a></li><li><a class=docs-link href=/book/principles-of-neutrino-oscillations/flavor-isospin-formalism/>Flavor Isospin Formalism</a></li></ul><h3>3. Neutrino Oscillations with Oscillatory Matter Profile</h3><ul class=list-unstyled><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/oscillations-with-oscillatory-matter-profiles/>Neutrino Oscillations with Oscillatory Matter Profiles</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/rabi-oscillations/>Rabi Oscillations</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/background-matter-basis/>Background Matter Basis</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/single-frequency-matter-profiles/>Single-Frequency Matter Profiles</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/multi-frequency-matter-profiles/>Multi-Frequency Matter Profiles</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/rabi-basis/>Rabi Basis</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/single-frequency-matter-profiles-revisited/>Single-Frequency Matter Profiles Revisited</a></li><li><a class=docs-link href=/book/oscillations-with-oscillatory-matter-profiles/multi-frequency-matter-profiles-revisited/>Multi-frequency Matter Profiles Revisited</a></li></ul><h3>4. Collective Neutrino Oscillations</h3><ul class=list-unstyled><li><a class=docs-link href=/book/collective-neutrino-oscillations/0_collective-neutrino-oscillations/>Collective Neutrino Oscillations</a></li><li><a class="docs-link active" href=/book/collective-neutrino-oscillations/1_equation-of-motion/>Equation of Motion</a></li><li><a class=docs-link href=/book/collective-neutrino-oscillations/2_two-beam-model-and-flavor-instabilities/>Two-Beam Model and Flavor Instabilities</a></li><li><a class=docs-link href=/book/collective-neutrino-oscillations/3_dispersion-relations/>Dispersion Relations</a></li><li><a class=docs-link href=/book/collective-neutrino-oscillations/4_flavor-instabilities-and-dispersion-relation-gaps/>Flavor Instabilities and Dispersion-Relation Gaps</a></li><li><a class=docs-link href=/book/collective-neutrino-oscillations/5_neutrino-oscillations-with-reflected-fluxes/>Neutrino Oscillations with Reflected Fluxes</a></li><li><a class=docs-link href=/book/collective-neutrino-oscillations/6_summary/>Summary</a></li></ul><h3>5. Conclusions and Future Work</h3><ul class=list-unstyled><li><a class=docs-link href=/book/conclusions-and-future-work/conclusions-and-future-work/>Conclusions and Future Work</a></li></ul><h3>Appendices</h3><ul class=list-unstyled><li><a class=docs-link href=/book/appendices/conventions/>Conventions</a></li><li><a class=docs-link href=/book/appendices/matter-interaction/>Neutrino Interaction with Matter</a></li><li><a class=docs-link href=/book/appendices/self-interactions/>Neutrino Self-interactions</a></li></ul></nav></div><main class="docs-content col-lg-11 col-xl-9 mx-xl-auto"><h1>Equation of Motion</h1><p class=lead></p><p>The equation of motion for neutrino oscillations with self-interaction is <sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup>
+$$
+\begin{equation}
+\ri \frac{\dd}{\dd t}\rho = [ \mathsf H,\rho],
+\label{chap:collective-sec:collective-eqn:equation-of-motion-general}
+\end{equation}
+$$
+where the total derivative is
+$$
+\begin{equation}
+\frac{\dd}{\dd t} = \partial_t + \mathbf v\cdot \boldsymbol{\nabla},
+\end{equation}
+$$
+and the Hamiltonian is composed of three different terms:
+$$
+\begin{equation}
+\mathsf H = \mathsf H_{\mathrm v} +\mathsf H_{\nu\nu}.
+\end{equation}
+$$
+In the above equation, the vacuum Hamiltonian is
+$$
+\begin{align*}
+\mathsf H_\vv =& \begin{cases}
+    -\frac{1}{2}\eta \omega_\vv \sigma_3 & \text{for neutrinos},\\
+    \frac{1}{2}\eta \omega_\vv \sigma_3 & \text{for antineutrinos},
+    \end{cases}
+\end{align*}
+$$
+where $\eta = +1$ for the normal neutrino mass hierarchy and $-1$ for the inverted neutrino mass hierarchy, $\omega_\vv$ is the vacuum oscillation frequency of the neutrino or antineutrino.
+The neutrino self-interaction is more complicated and can be written as
+$$
+\begin{equation}
+\mathsf H_{\nu\nu} = \sqrt{2}G_{\mathrm F} \int \frac{E'^2\dd E'}{8\pi^3} \dd\Gamma_{\mathbf v'} \left[ n(E',\mathbf v')\rho(E',\mathbf v') - \bar n(E',\mathbf v')\bar\rho(E',\mathbf v') \right] (1-\mathbf v \cdot \mathbf v'),
+\label{chap:collective-sec:collective-eqn:equation-of-motion-self-interaction}
+\end{equation}
+$$
+where $\dd \Gamma_\nu$ is the differential solid angle, $n(E,\mathbf v)$ and $\rho(E, \mathbf v)$ are the number density and the flavor density matrix of the neutrino with energy $E$ and velocity $\mathbf v$, and $\bar n(E, \mathbf v)$ and $\bar \rho(E,\mathbf v)$ are the corresponding quantities of the antineutrino.</p><p>The presence of the neutrino self-interaction potential makes the equation of motion \eqref{chap:collective-sec:collective-eqn:equation-of-motion-general} nonlinear, and many interesting phenomena arise because of it. For example, a dense neutrino medium can experience synchronized oscillations during which all the neutrinos and antineutrinos oscillate with the same frequency <sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup> <sup id=fnref:3><a href=#fn:3 class=footnote-ref role=doc-noteref>3</a></sup> <sup id=fnref:4><a href=#fn:4 class=footnote-ref role=doc-noteref>4</a></sup> <sup id=fnref:5><a href=#fn:5 class=footnote-ref role=doc-noteref>5</a></sup>. To see this, I will consider an isotropic and homogeneous neutrino gas and use the flavor isospin picture discussed in Sec. <a href=/book/principles-of-neutrino-oscillations/flavor-isospin-formalism/>Flavor Isospin Formalism</a>. The flavor isospin $\vec s$ of the neutrino is defined by
+$$
+\begin{equation}
+\rho = \frac{1}{2} + \vec s \cdot \vec \sigma.
+\end{equation}
+$$
+The equation of motion of the flavor isospin is
+$$
+\begin{equation}
+\dot{\vec s} = \vec s \times \left(\vec H_\vv + \vec H_{\nu\nu} \right),
+\label{chap:collective-eqn:flavor-isospin-eom}
+\end{equation}
+$$
+where
+$$
+\begin{equation}
+\vec H_{\mathrm v} = \omega_{\mathrm v}\begin{pmatrix}
+-\sin 2\theta_{\mathrm v}\\
+0 \\
+\cos 2\theta_{\mathrm v}
+\end{pmatrix} = \omega_\vv \vec B,
+\end{equation}
+$$
+and
+$$
+\begin{equation}
+\vec H_{\nu\nu} = \frac{\sqrt{2}G_{\mathrm F}}{2\pi^2} \int E'^2\dd E' n(E') \vec s(E').
+\end{equation}
+$$
+Here for simplicity I have assumed $n_{\mathrm e}=0$ and $\bar n=0$. When the neutrino density is very large, $\vec H_{\nu\nu}$ dominates over $\vec H_\vv$ in Eqn.~\eqref{chap:collective-eqn:flavor-isospin-eom}, and $\vec s$ precesses about $\vec H_{\nu\nu}$ rapidly. Meanwhile, the total flavor isospin
+$$
+\begin{equation}
+\vec S = \int \dd E' f(E') \vec s(E')
+\end{equation}
+$$
+precesses about $\vec H_\vv$ slowly with a mean oscillation frequency $\langle \omega_\vv \rangle$, where
+$$
+\begin{equation}
+f(E) = \frac{ E^2 n(E) }{ \int E'^2 \dd E' n(E') }
+\end{equation}
+$$
+is the energy distribution of the neutrino. To see this, one can multiply Eqn.~\eqref{chap:collective-eqn:flavor-isospin-eom} by $f(E)$ and integrate over $E$ which gives
+$$
+\begin{align}
+\dot{\vec S} &= \int \dd E f(E)\vec s(E) \times \omega_\vv \vec B \\
+&\to \int \dd E f(E) \left[ \frac{\vec s(E) \cdot \vec S}{ \lvert \vec S \rvert^2 } \vec S \right] \times \omega_\vv \vec B \\
+&= \langle \omega_\vv \rangle \vec S \times \vec B,
+\end{align}
+$$
+where
+$$
+\begin{equation}
+\langle \omega_\vv \rangle = \int \dd E f(E) \left[ \frac{\vec s(E) \cdot \vec S}{ \lvert \vec S \rvert^2 } \right] \omega_\vv.
+\end{equation}
+$$
+In the above equation I have replaced flavor isospin $\vec s$ with its projection along the direction of $\vec S$ because its precession about $\vec S$ is much faster than the precession of $\vec S$ about $\vec B$.</p><section class=footnotes role=doc-endnotes><hr><ol><li id=fn:1 role=doc-endnote><p>G. Sigl, "<span class=nocase>General kinetic description of relativistic mixed neutrinos</span>", Nuclear Physics B <span class=bold>406</span>, 423-451 (1993) .
+<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:2 role=doc-endnote><p>Sergio Pastor, "<span class=nocase>Physics of synchronized neutrino oscillations caused by self-interactions</span>", Physical Review D <span class=bold>65</span>, 053011 (2002) .
+<a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:3 role=doc-endnote><p>Steen Hannestad, "<span class=nocase>Self-induced conversion in dense neutrino gases: Pendulum in flavor space</span>", Physical Review D <span class=bold>74</span>, 1-21 (2006) .
+<a href=#fnref:3 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:4 role=doc-endnote><p>Georg G. Raffelt, "<span class=nocase>Self-induced parametric resonance in collective neutrino oscillations</span>", Physical Review D <span class=bold>78</span>, 1-9 (2008) .
+<a href=#fnref:4 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li><li id=fn:5 role=doc-endnote><p>Huaiyu Duan, "<span class=nocase>Collective neutrino oscillations</span>", Annual Review of Nuclear and Particle Science <span class=bold>60</span>, 569-594 (2010) .
+<a href=#fnref:5 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p></li></ol></section><p class=edit-page><a href=https://github.com/emptymalei/neutrino-oscillations/blob/master/content/book/collective-neutrino-oscillations/1_equation-of-motion.md><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-edit-2"><path d="M17 3a2.828 2.828.0 114 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>Edit this page on GitHub</a></p><div class="docs-navigation d-flex justify-content-between"><a href=/book/collective-neutrino-oscillations/0_collective-neutrino-oscillations/><div class="card my-1"><div class="card-body py-2">&larr; Collective Neutrino Oscillations</div></div></a><a class=ml-auto href=/book/collective-neutrino-oscillations/2_two-beam-model-and-flavor-instabilities/><div class="card my-1"><div class="card-body py-2">Two-Beam Model and Flavor Instabilities &rarr;</div></div></a></div></main></div></div></div><footer class="footer text-muted"><div class=container><div class=row><div class="col-lg-8 order-last order-lg-first"><ul class=list-inline><li class=list-inline-item>Powered by <a href=https://www.netlify.com/>Netlify</a>, <a href=https://gohugo.io/>Hugo</a>, and <a href=https://getdoks.org/>Doks</a>. Made with Love by <a href=https://leima.is>LM</a></li></ul></div><div class="col-lg-8 order-first order-lg-last text-lg-right"><ul class=list-inline><li class=list-inline-item><a href=https://github.com/emptymalei/neutrino-oscillations>Source</a></li></ul></div></div></div></footer><script src=/main.8799b515b78eee3b29d8f279eaf6a5c8c66a08126ec6e57f3ac3e9375dc173d785de5c52ce63ea915ee4a59989cfc7485202af78f1915fd4041c3a982dccf2f0.js integrity="sha512-h5m1FbeO7jsp2PJ56valyMZqCBJuxuV/OsPpN13Bc9eF3lxSzmPqkV7kpZmJz8dIUgKvePGRX9QEHDqYLczy8A==" crossorigin=anonymous defer></script><script src=/index.min.36f19ee598cbf2bc1ebbab71f490f90ac1809123601b84ac21181e26412a283bcf7795a6728c9a337a0cf5bc54ac701f2830883e7a24a7b5de935d37413c35eb.js integrity="sha512-NvGe5ZjL8rweu6tx9JD5CsGAkSNgG4SsIRgeJkEqKDvPd5WmcoyaM3oM9bxUrHAfKDCIPnokp7Xek103QTw16w==" crossorigin=anonymous defer></script><script defer src=https://static.cloudflareinsights.com/beacon.min.js data-cf-beacon='{"token": "20bf45690073452f9775b2b5670f1a88"}'></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-RHC13N6MV9"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-RHC13N6MV9');</script></body></html>
