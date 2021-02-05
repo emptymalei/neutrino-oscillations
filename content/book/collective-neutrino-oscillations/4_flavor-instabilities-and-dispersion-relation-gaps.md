@@ -68,7 +68,7 @@ In Fig. Dispersion Relations for Two-angel Model, I show the SS and AS of the di
 {{< figure src="../assets/dr-db.png" width="100%" title="Dispersion Relations for Two-angel Model" caption="The SS (left) and AS (right) of the dispersion relations for the two-angle model. The thick black curves represent $\omega(k)$ for real $k$. The red dashed and thin solid curves are $k_{\mathrm R}(\omega)$ and $k_{\mathrm R}(\omega) \pm k_{\mathrm I}(\omega)$ for real $\omega$ within the DR gap of $\omega$. Both $\omega$ and $k$ are measured in terms of the neutrino potential $\mu$." >}}
 
 
-The observation of the result of the two-angle model leads I. Izaguirre et al. to conjecture that the flavor instabilities are associated with the DR gaps. They also studied the dispersion relations using a continuous ELN distribution from a 1D supernova simulation\footnote{The data is from the Garching Core-Collapse Supernova Archive at \url{http://wwwmpa.mpa-garching.mpg.de/ccsnarchive/archive.html} } which are reproduced in Fig. Dispersion Relations for Garching Model.
+The observation of the result of the two-angle model leads I. Izaguirre et al. to conjecture that the flavor instabilities are associated with the DR gaps. They also studied the dispersion relations using a continuous ELN distribution from a 1D supernova simulation [^supsim] which are reproduced in Fig. Dispersion Relations for Garching Model.
 
 
 
@@ -156,3 +156,4 @@ and the $+$ and $-$ signs are for SS$+$ and SS$-$, respectively. Eqn.~\eqref{cha
 
 
 [^Izaguirre2016a]: {{< ref key="Izaguirre2016a">}}
+[^supsim]: The data is from the Garching Core-Collapse Supernova Archive at [http://wwwmpa.mpa-garching.mpg.de/ccsnarchive/archive.html](http://wwwmpa.mpa-garching.mpg.de/ccsnarchive/archive.html)

@@ -59,7 +59,7 @@ where
     A_n &= \tan 2\theta_{\mathrm m} n k_1 J_{n} \left( \frac{\lambda_1}{k_1}\cos 2\theta_{\mathrm m} \right)
 \end{align}
 {{</m>}}
-and $n k_1$ are the amplitude and wavenumber of the $n$th Rabi mode.\footnote{A phase in the matter potential would contribute to the phases of the Rabi modes which do not play any role in the resonance for the reason discussed in Sec. \ref{chap:app-sec:rabi-oscillations}}
+and $n k_1$ are the amplitude and wavenumber of the $n$th Rabi mode.[^rabimode]
 In obtaining Eqn. \eqref{chap:matter-sec:jacobi-eqn:hamil-jacobi-expanded}, I have used the following identity of the Bessel function
 {{<m>}}
 \begin{equation}
@@ -128,3 +128,4 @@ when another Rabi mode $n$ is present, where $\RD_n$ is the relative detuning wh
 Table relative-detunings-single-frequency-example shows the amplitudes and the relative detunings of a few Rabi modes and their impact on the Rabi resonance for the three numerical examples shown in Fig. Neutrino Rabi Oscillations for Single Mode.
 
 
+[^rabimode]: A phase in the matter potential would contribute to the phases of the Rabi modes, which do not play any role in the resonance for the reason discussed in Sec. [Rabi Oscillations](/book/oscillations-with-oscillatory-matter-profiles/rabi-oscillations/).

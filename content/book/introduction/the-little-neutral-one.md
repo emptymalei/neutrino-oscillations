@@ -19,7 +19,7 @@ The neutrino is one of the most interesting particles that has ever been discove
 {}^{14}_ {6} \mathrm C \to {}^{14} _ {7}\mathrm N + \mathrm e^{-} + \bar\nu_{\mathrm e}.
 \end{equation*}
 {{</m>}}
-The fact that the electron energy spectrum in the beta decay process is continuous indicates the existence of a third product other than ${}^{14}_{7}\mathrm N$ and $\mathrm e^-$. In 1930, Pauli wrote a letter\footnote{The original letter can be found at \url{https://www.bibnum.education.fr/physique/physique-nucleaire/chers-mesdames-et-messieurs-radioactifs}.} to a workshop in Tubingen explaining to the "Radioactive Ladies and Gentlemen" about his so called "neutron" as the missing particle in the beta decay at that time. It was later called neutrino since the name "neutron" had been used to name one of the nucleons. The missing particles in beta decays were proven to be anti-neutrinos. In a beta decay process, the charged current weak interaction converts a down quark in the neutron to an up quark while releasing an electron and an anti-electron neutrino:
+The fact that the electron energy spectrum in the beta decay process is continuous indicates the existence of a third product other than ${}^{14}_{7}\mathrm N$ and $\mathrm e^-$. In 1930, Pauli wrote a letter [^pauli] to a workshop in Tubingen explaining to the "Radioactive Ladies and Gentlemen" about his so called "neutron" as the missing particle in the beta decay at that time. It was later called neutrino since the name "neutron" had been used to name one of the nucleons. The missing particles in beta decays were proven to be anti-neutrinos. In a beta decay process, the charged current weak interaction converts a down quark in the neutron to an up quark while releasing an electron and an anti-electron neutrino:
 {{<m>}}
 \begin{equation}
 n\to p + e^- + \bar \nu_e .
@@ -59,3 +59,4 @@ More generally, the positron/electron emission and capture processes are all neu
 
 [^Cowan1956]: {{< ref key="Cowan1956" >}}
 [^Patrignani:2016xqp]: {{< ref key="Patrignani:2016xqp" >}}
+[^pauli]: The original letter can be found at [https://www.bibnum.education.fr/physique/physique-nucleaire/chers-mesdames-et-messieurs-radioactifs](https://www.bibnum.education.fr/physique/physique-nucleaire/chers-mesdames-et-messieurs-radioactifs)
