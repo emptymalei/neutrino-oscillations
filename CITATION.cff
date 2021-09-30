@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use contents in this repo, please cite it as below."
+authors:
+- family-names: "Ma"
+  given-names: "Lei"
+  orcid: "https://orcid.org/0000-0002-9726-180X"
+title: "Neutrino Flavor Oscillations in Dense Media"
+version: 0.1.0
+doi: 10.5281/zenodo.5541597
+date-released: 2020-12-26
+url: "https://github.com/emptymalei/neutrino-oscillations"
