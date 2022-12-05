@@ -38,7 +38,7 @@
     "purgecss-whitelister": "^2.4",
     "rimraf": "^3.0",
     "standard-version": "^9.0.0",
-    "stylelint": "^13.8",
+    "stylelint": "^14.16",
     "stylelint-config-standard": "^20.0"
   }
 }
